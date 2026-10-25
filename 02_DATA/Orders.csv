@@ -1,0 +1,1001 @@
+OrderID,CustomerID,OrderDate,PaymentMethod,OrderStatus,ShippingCity,ShippingCost,OrderTotal,DeliveryDate
+1,799,2025-06-01,Cash on Delivery,Delivered,Delhi,0.57,7251.66,2025-06-13
+2,19,2026-08-18,UPI,Cancelled,Chennai,9.91,29879.79,
+3,471,2024-06-24,Debit Card,Delivered,Kochi,164.63,14789.1,2024-07-04
+4,909,2026-01-08,UPI,Delivered,Jaipur,1.01,33424.29,2026-01-12
+5,140,2025-03-05,Debit Card,Delivered,Kolkata,77.51,36106.83,2025-03-06
+6,576,2025-10-18,Cash on Delivery,Cancelled,Bhopal,149.86,15680.84,
+7,183,2026-05-14,Wallet,Shipped,Visakhapatnam,176.3,7481.2,2026-05-16
+8,372,2024-08-20,Cash on Delivery,Shipped,Mysuru,10.59,12013.52,2024-08-28
+9,322,2025-11-27,Debit Card,Delivered,Pune,0.92,10525.74,2025-12-09
+10,716,2024-10-27,Credit Card,Delivered,Hyderabad,161.33,17541.23,2024-11-02
+11,610,2024-09-20,Debit Card,Delivered,Bengaluru,190.35,12773.3,2024-09-24
+12,831,2025-07-05,Credit Card,Delivered,Jaipur,42.43,22163.69,2025-07-06
+13,361,2026-03-04,Credit Card,Processing,Mumbai,132.13,9698.66,
+14,903,2026-03-13,Cash on Delivery,Cancelled,Coimbatore,71.63,13202.65,
+15,62,2025-02-19,Credit Card,Delivered,Kolkata,194.82,20558.62,2025-02-28
+16,735,2024-09-14,Wallet,Delivered,Pune,185.26,24512.15,2024-09-21
+17,871,2024-11-01,Debit Card,Shipped,Jaipur,182.09,23587.7,
+18,722,2024-02-21,Wallet,Shipped,Kolkata,71.66,29870.03,2024-02-25
+19,845,2024-01-10,Wallet,Processing,Coimbatore,6.77,12665.49,
+20,717,2024-11-12,Net Banking,Cancelled,Visakhapatnam,5.48,11594.93,
+21,798,2025-06-03,UPI,Shipped,Bhopal,18.86,11538.93,
+22,704,2025-12-20,UPI,Delivered,Mumbai,33.47,12600.87,2026-01-01
+23,699,2024-06-30,UPI,Delivered,Pune,177.7,28642.42,2024-07-06
+24,11,2024-06-10,Wallet,Shipped,Visakhapatnam,151.15,11662.48,
+25,188,2026-07-17,Debit Card,Delivered,Chennai,192.36,30538.08,2026-07-25
+26,45,2026-09-05,Debit Card,Shipped,Kochi,19.88,23028.85,
+27,726,2026-01-30,Net Banking,Processing,Coimbatore,134.14,16862.64,
+28,295,2026-09-07,Debit Card,Cancelled,Delhi,123.79,11592.14,
+29,357,2024-05-09,Wallet,Delivered,Delhi,174.78,5858.84,2024-05-14
+30,629,2026-07-20,Debit Card,Delivered,Bhopal,190.13,16765.4,2026-07-24
+31,703,2025-08-03,Cash on Delivery,Delivered,Hyderabad,29.16,10220.3,2025-08-11
+32,592,2024-01-14,Net Banking,Cancelled,Bhopal,3.83,7952.22,
+33,270,2024-02-15,Cash on Delivery,Cancelled,Mumbai,178.19,9384.6,
+34,869,2024-10-22,Net Banking,Delivered,Kolkata,115.63,13819.4,2024-10-30
+35,387,2026-02-15,Credit Card,Delivered,Ahmedabad,66.5,12349.76,2026-02-23
+36,389,2024-11-16,Credit Card,Delivered,Kochi,25.87,32124.76,2024-11-21
+37,597,2024-03-03,Debit Card,Cancelled,Kochi,37.17,23689.8,
+38,877,2024-04-07,UPI,Delivered,Mysuru,3.03,9131.05,2024-04-11
+39,653,2026-02-21,UPI,Processing,Bhopal,110.6,28015.34,
+40,91,2025-01-28,Cash on Delivery,Shipped,Mysuru,88.37,30959.21,
+41,570,2026-03-19,Wallet,Processing,Bengaluru,89.78,5834.47,
+42,608,2026-02-28,Wallet,Shipped,Kochi,62.03,19527.42,
+43,145,2025-04-13,Cash on Delivery,Delivered,Chennai,70.39,20355.09,2025-04-25
+44,130,2024-01-02,UPI,Shipped,Bengaluru,22.79,5393.44,2024-01-06
+45,663,2026-03-25,Cash on Delivery,Processing,Bengaluru,144.39,13069.13,
+46,932,2025-05-15,Cash on Delivery,Cancelled,Mumbai,0.85,3126.19,
+47,448,2024-08-04,Credit Card,Processing,Mysuru,73.91,14342.02,
+48,721,2025-12-08,Wallet,Delivered,Ahmedabad,75.96,10871.6,2025-12-17
+49,619,2026-05-28,Debit Card,Delivered,Kolkata,13.37,33252.71,2026-06-06
+50,340,2026-09-11,UPI,Delivered,Visakhapatnam,172.38,31801.05,2026-09-12
+51,182,2025-07-18,UPI,Delivered,Lucknow,122.39,27309.1,2025-07-23
+52,285,2024-10-12,Debit Card,Shipped,Mysuru,196.49,11445.67,
+53,592,2025-09-08,Wallet,Cancelled,Bhopal,39.06,14825.38,
+54,213,2024-02-21,Debit Card,Delivered,Ahmedabad,186.48,21934.89,2024-02-29
+55,871,2026-08-10,UPI,Delivered,Jaipur,138.4,24772.07,2026-08-19
+56,428,2024-12-09,Net Banking,Delivered,Hyderabad,81.02,24371.51,2024-12-13
+57,468,2025-04-15,Credit Card,Delivered,Visakhapatnam,79.18,19583.28,2025-04-26
+58,613,2024-04-01,UPI,Shipped,Coimbatore,135.84,12290.96,
+59,882,2026-08-25,Wallet,Delivered,Kochi,115.83,10978.01,2026-08-29
+60,555,2026-04-20,Net Banking,Delivered,Chennai,13.31,17924.8,2026-04-22
+61,499,2024-01-15,UPI,Processing,Kochi,11.12,9670.17,
+62,393,2024-08-27,Debit Card,Cancelled,Hyderabad,78.41,24490.57,
+63,596,2024-10-20,Credit Card,Delivered,Mumbai,59.8,23940.17,2024-10-30
+64,735,2024-08-18,Credit Card,Processing,Pune,82.95,44831.07,
+65,867,2024-06-21,Wallet,Shipped,Jaipur,26.8,14994.58,2024-06-29
+66,141,2026-07-30,Wallet,Cancelled,Ahmedabad,68.36,20104.14,
+67,528,2026-05-20,Net Banking,Processing,Kochi,126.61,18274.02,
+68,152,2025-10-16,Credit Card,Delivered,Lucknow,144.15,35975.19,2025-10-20
+69,574,2024-12-12,UPI,Delivered,Ahmedabad,176.58,26559.29,2024-12-23
+70,374,2025-06-28,Wallet,Delivered,Delhi,44.76,20763.5,2025-06-30
+71,855,2025-01-09,Wallet,Cancelled,Visakhapatnam,105.27,21879.11,
+72,400,2026-07-27,Wallet,Cancelled,Chennai,112.18,26157.79,
+73,917,2026-01-07,Debit Card,Delivered,Pune,143.63,34350.07,2026-01-14
+74,578,2025-04-28,Credit Card,Delivered,Bengaluru,78.21,18657.41,2025-05-03
+75,81,2024-06-30,Cash on Delivery,Delivered,Chennai,56.82,15019.15,2024-07-05
+76,90,2026-04-14,Net Banking,Delivered,Mumbai,36.89,23110.94,2026-04-21
+77,310,2026-05-14,Wallet,Shipped,Hyderabad,36.16,43397.51,2026-05-21
+78,603,2024-05-01,Credit Card,Delivered,Pune,36.14,35049.82,2024-05-11
+79,254,2026-03-22,UPI,Delivered,Pune,187.25,5759.26,2026-04-03
+80,464,2025-08-03,Wallet,Shipped,Ahmedabad,43.78,20021.79,
+81,749,2024-05-04,Cash on Delivery,Shipped,Bhopal,187.09,17990.13,
+82,458,2024-04-04,Cash on Delivery,Processing,Ahmedabad,55.89,19683.82,
+83,817,2025-04-16,Wallet,Delivered,Lucknow,53.14,20147.15,2025-04-20
+84,168,2026-06-09,Net Banking,Cancelled,Mysuru,185.82,20928.49,
+85,474,2025-04-08,UPI,Delivered,Chennai,114.88,26789.94,2025-04-16
+86,115,2024-10-12,UPI,Delivered,Pune,128.5,33561.63,2024-10-14
+87,950,2026-08-16,Wallet,Delivered,Mysuru,64.77,12172.39,2026-08-24
+88,183,2026-01-16,Cash on Delivery,Delivered,Visakhapatnam,13.08,13203.88,2026-01-17
+89,309,2024-08-20,Credit Card,Processing,Chennai,137.77,16394.44,
+90,931,2024-02-05,Credit Card,Delivered,Coimbatore,24.2,27662.53,2024-02-12
+91,929,2026-01-08,Debit Card,Delivered,Chennai,119.59,11369.35,2026-01-20
+92,631,2024-12-26,Credit Card,Cancelled,Lucknow,135.89,16813.3,
+93,717,2025-09-22,Wallet,Delivered,Visakhapatnam,177.83,29912.22,2025-09-30
+94,711,2026-04-28,Debit Card,Delivered,Bengaluru,155.59,8232.46,2026-05-07
+95,36,2025-04-25,UPI,Shipped,Lucknow,18.24,31484.28,
+96,783,2025-06-01,Credit Card,Delivered,Kolkata,165.12,12414.69,2025-06-03
+97,406,2024-04-12,Wallet,Delivered,Lucknow,128.32,28094.07,2024-04-20
+98,813,2026-05-12,Net Banking,Cancelled,Bhopal,86.51,41119.63,
+99,206,2024-11-28,Wallet,Shipped,Lucknow,150.0,5018.96,
+100,521,2024-01-18,Wallet,Cancelled,Bengaluru,21.12,29469.07,
+101,879,2026-01-28,UPI,Processing,Mysuru,30.7,13405.44,
+102,387,2024-07-06,Wallet,Processing,Ahmedabad,197.59,7210.83,
+103,810,2026-01-09,Net Banking,Shipped,Lucknow,172.03,8291.78,
+104,283,2024-04-17,Cash on Delivery,Delivered,Bengaluru,1.26,23496.01,2024-04-28
+105,332,2024-06-01,Debit Card,Delivered,Delhi,176.81,28228.01,2024-06-10
+106,680,2025-02-12,Debit Card,Delivered,Bhopal,113.61,25789.81,2025-02-24
+107,810,2025-05-02,Net Banking,Delivered,Lucknow,71.94,8124.46,2025-05-04
+108,738,2024-10-01,Cash on Delivery,Delivered,Jaipur,15.42,13207.71,2024-10-02
+109,687,2024-04-03,Credit Card,Processing,Mumbai,143.46,19080.86,
+110,62,2025-05-03,Cash on Delivery,Delivered,Kolkata,161.43,15521.9,2025-05-05
+111,888,2025-10-29,Cash on Delivery,Shipped,Mumbai,19.12,27241.09,
+112,250,2026-02-08,UPI,Cancelled,Chennai,85.57,56713.01,
+113,580,2026-09-04,UPI,Processing,Jaipur,94.44,34174.87,
+114,818,2025-09-08,Cash on Delivery,Delivered,Chennai,26.24,16724.26,2025-09-17
+115,637,2025-05-01,UPI,Cancelled,Visakhapatnam,108.39,19196.54,
+116,618,2024-04-03,Credit Card,Cancelled,Bhopal,153.22,29914.01,
+117,128,2024-05-28,Debit Card,Delivered,Jaipur,31.55,22833.22,2024-06-04
+118,290,2025-07-30,Credit Card,Cancelled,Bhopal,90.76,11188.2,
+119,431,2026-09-18,Cash on Delivery,Processing,Mumbai,92.39,36552.15,
+120,459,2025-08-30,Net Banking,Shipped,Visakhapatnam,183.75,19457.67,
+121,708,2024-02-04,Credit Card,Delivered,Mysuru,170.72,22581.08,2024-02-16
+122,482,2024-07-22,Net Banking,Delivered,Bengaluru,117.18,29940.22,2024-07-25
+123,452,2024-03-21,Credit Card,Delivered,Kolkata,175.66,22180.0,2024-03-27
+124,51,2025-12-12,Cash on Delivery,Delivered,Ahmedabad,118.12,34323.25,2025-12-15
+125,165,2025-04-18,Cash on Delivery,Shipped,Kochi,134.21,20319.66,2025-04-28
+126,871,2025-07-27,Credit Card,Processing,Jaipur,151.93,33835.18,
+127,306,2026-09-22,Debit Card,Delivered,Kochi,149.99,21166.49,2026-09-24
+128,627,2024-05-04,Debit Card,Shipped,Kochi,113.31,13715.44,2024-05-13
+129,232,2025-08-11,Debit Card,Delivered,Chennai,174.54,6997.53,2025-08-21
+130,513,2025-03-06,Credit Card,Delivered,Lucknow,120.48,19321.27,2025-03-10
+131,107,2026-09-17,Net Banking,Delivered,Hyderabad,198.54,21557.87,2026-09-19
+132,780,2024-02-14,Net Banking,Shipped,Bengaluru,65.04,28259.52,
+133,820,2025-08-22,Cash on Delivery,Delivered,Hyderabad,170.97,23316.38,2025-08-27
+134,444,2026-05-18,Wallet,Delivered,Visakhapatnam,75.92,11812.18,2026-05-21
+135,896,2024-12-30,Wallet,Delivered,Mumbai,27.14,19669.68,2025-01-08
+136,610,2025-02-05,Cash on Delivery,Delivered,Bengaluru,65.82,30331.22,2025-02-15
+137,224,2026-08-25,Net Banking,Delivered,Pune,51.96,19606.44,2026-09-01
+138,227,2024-03-27,Credit Card,Delivered,Jaipur,44.34,24634.84,2024-03-30
+139,849,2025-02-21,Debit Card,Delivered,Hyderabad,185.62,24531.77,2025-03-01
+140,188,2024-09-28,Wallet,Shipped,Chennai,41.37,19790.76,
+141,710,2025-11-21,Cash on Delivery,Cancelled,Bengaluru,78.85,27026.9,
+142,882,2024-10-14,UPI,Shipped,Kochi,149.9,30533.33,
+143,477,2024-09-26,Debit Card,Delivered,Mumbai,197.72,30402.08,2024-10-05
+144,49,2024-06-16,Net Banking,Delivered,Kolkata,162.2,35503.8,2024-06-19
+145,770,2024-12-10,Cash on Delivery,Cancelled,Delhi,173.56,24370.35,
+146,157,2025-09-30,UPI,Delivered,Ahmedabad,1.85,12361.87,2025-10-04
+147,236,2024-01-23,Debit Card,Delivered,Visakhapatnam,39.26,37871.07,2024-01-31
+148,836,2024-01-11,Credit Card,Shipped,Kolkata,170.32,21695.38,2024-01-13
+149,285,2025-10-19,Credit Card,Delivered,Mysuru,41.91,25502.93,2025-10-22
+150,30,2024-08-09,Net Banking,Delivered,Bhopal,142.63,25743.76,2024-08-14
+151,70,2026-08-27,Credit Card,Processing,Ahmedabad,161.09,34622.74,
+152,678,2026-03-27,Cash on Delivery,Delivered,Mysuru,58.24,26337.7,2026-04-07
+153,474,2026-01-17,Cash on Delivery,Delivered,Chennai,165.51,34220.72,2026-01-19
+154,806,2026-05-02,Wallet,Processing,Coimbatore,186.21,38949.07,
+155,555,2024-08-20,UPI,Processing,Chennai,173.61,15665.51,
+156,185,2024-06-08,Wallet,Delivered,Chennai,119.16,17802.85,2024-06-13
+157,261,2026-07-25,Net Banking,Processing,Lucknow,144.22,20528.17,
+158,588,2026-02-26,Net Banking,Delivered,Lucknow,158.09,6529.82,2026-03-07
+159,526,2024-02-12,UPI,Delivered,Hyderabad,138.68,29640.74,2024-02-20
+160,884,2026-04-24,Wallet,Shipped,Mumbai,57.98,23397.0,2026-04-30
+161,364,2024-07-01,Credit Card,Processing,Visakhapatnam,63.35,11396.61,
+162,146,2026-07-16,Debit Card,Shipped,Mumbai,188.12,17451.08,2026-07-23
+163,154,2024-05-27,Wallet,Delivered,Hyderabad,74.76,41094.65,2024-05-31
+164,754,2024-01-02,UPI,Cancelled,Delhi,107.38,35613.16,
+165,313,2025-05-29,UPI,Processing,Mysuru,99.32,13980.45,
+166,824,2024-06-19,Debit Card,Delivered,Chennai,171.18,16444.1,2024-06-29
+167,195,2026-03-17,Credit Card,Cancelled,Delhi,89.19,17656.53,
+168,899,2025-09-04,Debit Card,Cancelled,Ahmedabad,62.99,28105.71,
+169,814,2024-06-23,Cash on Delivery,Delivered,Kochi,181.5,5115.79,2024-06-29
+170,86,2024-05-25,UPI,Processing,Bhopal,26.63,37499.17,
+171,331,2026-08-04,Net Banking,Shipped,Kolkata,43.45,37675.61,
+172,685,2026-01-07,UPI,Delivered,Kolkata,128.5,20148.35,2026-01-14
+173,344,2025-11-10,UPI,Delivered,Mumbai,124.08,10370.56,2025-11-22
+174,229,2025-11-01,UPI,Processing,Mysuru,151.3,25178.61,
+175,839,2025-10-19,Wallet,Delivered,Jaipur,35.18,23102.45,2025-10-28
+176,934,2026-06-23,Net Banking,Delivered,Visakhapatnam,141.53,27696.38,2026-07-01
+177,306,2026-07-04,Debit Card,Delivered,Kochi,20.69,24840.62,2026-07-09
+178,769,2024-05-16,Wallet,Cancelled,Kolkata,0.19,32066.5,
+179,538,2025-05-06,Debit Card,Delivered,Pune,165.55,19997.13,2025-05-18
+180,794,2026-02-02,Credit Card,Delivered,Lucknow,118.56,11393.81,2026-02-12
+181,733,2026-08-10,UPI,Shipped,Mysuru,160.92,10763.19,
+182,292,2024-06-16,Cash on Delivery,Processing,Jaipur,50.33,29141.71,
+183,792,2026-06-01,Cash on Delivery,Cancelled,Kolkata,172.3,18229.68,
+184,609,2026-09-27,Wallet,Processing,Mumbai,55.26,16989.9,
+185,563,2024-01-21,UPI,Delivered,Kochi,43.65,11505.43,2024-01-22
+186,357,2026-08-16,UPI,Delivered,Delhi,148.85,18117.36,2026-08-18
+187,330,2025-10-08,UPI,Delivered,Kochi,65.0,19033.64,2025-10-20
+188,364,2025-07-20,Net Banking,Cancelled,Visakhapatnam,32.21,8740.0,
+189,408,2025-06-30,Cash on Delivery,Cancelled,Hyderabad,86.01,47908.08,
+190,911,2024-07-30,Wallet,Processing,Kolkata,121.27,10999.66,
+191,86,2025-06-01,Credit Card,Delivered,Bhopal,126.36,39352.23,2025-06-03
+192,445,2025-07-19,Credit Card,Delivered,Coimbatore,192.06,5518.32,2025-07-22
+193,922,2024-08-19,Wallet,Cancelled,Mysuru,121.15,12438.32,
+194,615,2026-01-15,UPI,Delivered,Chennai,105.14,27011.93,2026-01-22
+195,667,2024-02-14,Cash on Delivery,Shipped,Mumbai,150.35,19215.19,2024-02-17
+196,131,2025-04-23,Cash on Delivery,Processing,Mumbai,88.47,28395.09,
+197,430,2025-08-16,Wallet,Processing,Delhi,128.01,22153.6,
+198,692,2024-01-18,Cash on Delivery,Cancelled,Bengaluru,163.56,29194.99,
+199,394,2026-02-21,Debit Card,Delivered,Kochi,121.72,6968.76,2026-02-25
+200,632,2025-06-03,Debit Card,Processing,Kochi,112.54,19727.47,
+201,688,2025-03-21,Debit Card,Cancelled,Delhi,126.66,31910.99,
+202,643,2025-05-01,Net Banking,Delivered,Ahmedabad,152.2,28738.78,2025-05-11
+203,497,2024-01-23,Cash on Delivery,Processing,Visakhapatnam,0.77,45522.16,
+204,361,2025-12-03,Cash on Delivery,Processing,Mumbai,169.27,16537.29,
+205,868,2024-11-05,Wallet,Delivered,Mumbai,81.78,22468.13,2024-11-12
+206,596,2025-07-03,UPI,Processing,Mumbai,21.26,23656.34,
+207,812,2025-09-11,UPI,Delivered,Jaipur,131.91,33466.4,2025-09-13
+208,168,2025-02-12,Credit Card,Delivered,Mysuru,191.27,35141.41,2025-02-21
+209,278,2025-07-01,Net Banking,Delivered,Pune,71.36,29272.3,2025-07-07
+210,313,2025-11-13,Debit Card,Processing,Mysuru,109.66,31769.94,
+211,426,2026-06-05,Credit Card,Delivered,Pune,2.9,31795.58,2026-06-06
+212,48,2025-11-26,Debit Card,Delivered,Kochi,143.32,32549.33,2025-11-27
+213,397,2024-10-26,Cash on Delivery,Delivered,Jaipur,111.03,7415.54,2024-11-03
+214,54,2025-05-29,Wallet,Shipped,Coimbatore,181.88,9414.11,
+215,823,2024-02-05,Debit Card,Delivered,Lucknow,22.49,5053.68,2024-02-09
+216,941,2024-10-29,Debit Card,Delivered,Pune,188.99,6883.14,2024-11-09
+217,433,2025-07-26,Credit Card,Shipped,Chennai,162.88,32912.69,
+218,120,2024-11-27,Credit Card,Delivered,Mumbai,121.65,22312.93,2024-11-30
+219,876,2024-07-04,Net Banking,Delivered,Ahmedabad,121.19,25270.73,2024-07-09
+220,315,2025-05-06,Credit Card,Shipped,Visakhapatnam,60.41,25350.97,
+221,99,2026-05-18,Wallet,Delivered,Mysuru,106.34,29711.75,2026-05-24
+222,357,2024-08-11,Wallet,Delivered,Delhi,33.08,3116.2,2024-08-14
+223,190,2026-08-27,Credit Card,Delivered,Bhopal,185.17,32098.67,2026-09-04
+224,436,2026-03-01,Wallet,Delivered,Mumbai,106.68,19759.18,2026-03-07
+225,692,2024-11-24,Wallet,Processing,Bengaluru,64.62,30025.44,
+226,880,2024-11-16,UPI,Delivered,Visakhapatnam,80.81,13144.54,2024-11-18
+227,345,2026-07-27,Net Banking,Delivered,Bhopal,105.29,23762.15,2026-08-04
+228,315,2024-10-02,Cash on Delivery,Shipped,Visakhapatnam,45.83,15480.13,
+229,750,2026-01-31,Debit Card,Cancelled,Bhopal,58.86,36257.49,
+230,720,2026-04-05,Net Banking,Processing,Delhi,91.43,25269.29,
+231,523,2025-07-01,Credit Card,Delivered,Bengaluru,44.23,18270.69,2025-07-13
+232,246,2026-04-25,Cash on Delivery,Cancelled,Mysuru,103.71,16874.61,
+233,911,2024-06-28,UPI,Processing,Kolkata,13.6,53413.38,
+234,293,2026-04-27,Net Banking,Processing,Visakhapatnam,86.52,14984.76,
+235,709,2024-11-09,Cash on Delivery,Shipped,Bhopal,65.02,26216.17,2024-11-19
+236,885,2024-04-19,Wallet,Delivered,Kochi,84.55,5172.15,2024-04-21
+237,491,2025-03-29,Credit Card,Cancelled,Delhi,75.4,11078.8,
+238,215,2026-04-13,Debit Card,Shipped,Chennai,27.17,23833.88,
+239,54,2025-09-16,Cash on Delivery,Processing,Coimbatore,114.45,12529.2,
+240,568,2024-12-14,Cash on Delivery,Shipped,Chennai,45.35,14122.35,
+241,609,2025-02-23,Wallet,Cancelled,Mumbai,103.89,27623.35,
+242,527,2026-03-06,Credit Card,Processing,Chennai,59.21,18614.18,
+243,575,2026-07-21,Cash on Delivery,Delivered,Jaipur,163.95,8156.77,2026-07-24
+244,760,2024-04-23,Cash on Delivery,Processing,Ahmedabad,10.22,24233.58,
+245,677,2026-07-07,Net Banking,Cancelled,Ahmedabad,168.3,21838.15,
+246,921,2024-03-24,Credit Card,Shipped,Pune,2.86,12971.62,
+247,436,2025-05-23,UPI,Delivered,Mumbai,104.09,18028.15,2025-06-03
+248,215,2025-06-24,Net Banking,Processing,Chennai,68.0,12668.76,
+249,855,2025-07-05,Net Banking,Delivered,Visakhapatnam,54.75,11242.2,2025-07-13
+250,591,2024-02-18,UPI,Delivered,Pune,62.81,22554.49,2024-02-24
+251,644,2026-04-28,Credit Card,Cancelled,Lucknow,62.3,6695.32,
+252,130,2025-11-20,Cash on Delivery,Shipped,Bengaluru,3.98,13696.08,2025-11-25
+253,129,2026-05-23,Wallet,Processing,Ahmedabad,195.97,16760.88,
+254,437,2024-02-13,Debit Card,Processing,Bengaluru,11.76,4385.72,
+255,336,2024-03-03,Cash on Delivery,Delivered,Bengaluru,59.57,14562.12,2024-03-15
+256,509,2024-07-29,Cash on Delivery,Shipped,Mysuru,150.75,42034.09,
+257,411,2025-08-04,Net Banking,Delivered,Kolkata,41.59,19301.07,2025-08-10
+258,93,2025-01-10,Net Banking,Cancelled,Mumbai,190.17,13730.71,
+259,246,2025-08-21,Wallet,Shipped,Mysuru,113.05,3934.27,2025-08-23
+260,138,2026-05-08,Cash on Delivery,Processing,Kolkata,181.29,11113.15,
+261,609,2025-03-07,UPI,Cancelled,Mumbai,75.26,9836.71,
+262,387,2026-04-06,Wallet,Delivered,Ahmedabad,51.03,4614.81,2026-04-16
+263,473,2026-09-08,UPI,Delivered,Jaipur,126.29,17325.15,2026-09-14
+264,39,2024-07-12,Credit Card,Cancelled,Mumbai,111.48,9013.66,
+265,499,2025-03-05,UPI,Delivered,Kochi,84.02,8444.04,2025-03-13
+266,542,2026-02-12,UPI,Processing,Coimbatore,45.75,40454.57,
+267,429,2025-05-22,Debit Card,Shipped,Chennai,51.77,4795.59,
+268,629,2025-06-05,Net Banking,Shipped,Bhopal,152.29,22880.3,
+269,140,2026-05-16,UPI,Shipped,Kolkata,24.53,14573.97,
+270,808,2024-04-18,Cash on Delivery,Shipped,Bengaluru,166.99,31456.54,
+271,923,2024-03-07,Credit Card,Processing,Hyderabad,98.19,13860.7,
+272,415,2024-10-17,Debit Card,Shipped,Chennai,89.45,7317.28,2024-10-20
+273,198,2025-06-08,Credit Card,Cancelled,Visakhapatnam,173.8,16923.35,
+274,358,2024-09-27,UPI,Delivered,Pune,193.01,11877.52,2024-10-07
+275,742,2025-10-30,Wallet,Delivered,Visakhapatnam,89.59,24944.65,2025-10-31
+276,707,2025-05-21,Debit Card,Cancelled,Mumbai,117.72,17537.6,
+277,381,2026-03-10,UPI,Delivered,Lucknow,167.2,16483.23,2026-03-15
+278,650,2026-08-03,Net Banking,Delivered,Delhi,28.7,32598.54,2026-08-15
+279,262,2026-06-05,Credit Card,Processing,Kolkata,80.97,23496.42,
+280,190,2024-10-23,Cash on Delivery,Delivered,Bhopal,52.74,7252.28,2024-10-25
+281,849,2025-09-28,Net Banking,Delivered,Hyderabad,7.05,42606.72,2025-09-29
+282,13,2024-06-01,UPI,Processing,Hyderabad,79.47,16432.09,
+283,609,2024-12-09,Cash on Delivery,Delivered,Mumbai,77.79,17130.75,2024-12-16
+284,598,2024-02-01,Credit Card,Delivered,Delhi,67.45,24368.29,2024-02-09
+285,140,2024-12-07,Credit Card,Processing,Kolkata,192.17,37018.74,
+286,771,2026-03-08,Cash on Delivery,Delivered,Mysuru,130.22,5076.51,2026-03-15
+287,43,2026-01-31,UPI,Processing,Bengaluru,94.05,25766.95,
+288,26,2026-04-03,Cash on Delivery,Delivered,Bengaluru,62.93,27187.96,2026-04-05
+289,172,2025-07-14,Credit Card,Delivered,Mysuru,94.32,3816.18,2025-07-15
+290,845,2024-08-18,Wallet,Delivered,Coimbatore,58.33,25845.05,2024-08-20
+291,407,2024-01-16,Debit Card,Delivered,Kochi,68.12,9450.86,2024-01-26
+292,313,2026-01-29,Net Banking,Shipped,Mysuru,158.77,17940.67,
+293,657,2025-10-02,Net Banking,Delivered,Kolkata,62.85,39104.36,2025-10-13
+294,618,2026-04-17,Cash on Delivery,Delivered,Bhopal,143.32,20914.45,2026-04-27
+295,360,2024-04-24,Cash on Delivery,Shipped,Bhopal,7.37,5740.91,
+296,902,2025-02-18,Net Banking,Cancelled,Kochi,56.82,26652.78,
+297,811,2026-06-18,Cash on Delivery,Processing,Kolkata,134.22,30414.82,
+298,539,2024-10-02,Cash on Delivery,Delivered,Delhi,90.78,9326.55,2024-10-04
+299,34,2025-05-17,Net Banking,Delivered,Mysuru,123.32,3039.78,2025-05-18
+300,585,2026-01-24,Debit Card,Cancelled,Ahmedabad,152.05,24111.09,
+301,236,2024-10-12,Credit Card,Processing,Visakhapatnam,53.53,28637.53,
+302,588,2026-09-15,UPI,Processing,Lucknow,81.63,11912.42,
+303,171,2024-07-23,UPI,Cancelled,Coimbatore,144.64,27279.74,
+304,900,2024-08-01,Credit Card,Delivered,Mysuru,0.39,17893.07,2024-08-09
+305,608,2024-04-23,Net Banking,Processing,Kochi,0.96,22027.08,
+306,818,2024-01-03,Wallet,Delivered,Chennai,115.35,12987.04,2024-01-06
+307,507,2024-07-25,Debit Card,Shipped,Mumbai,147.69,12195.33,2024-08-01
+308,557,2026-05-12,UPI,Delivered,Pune,187.62,40894.5,2026-05-16
+309,52,2024-01-24,UPI,Processing,Lucknow,162.37,19853.13,
+310,912,2024-04-09,UPI,Cancelled,Hyderabad,166.17,14167.26,
+311,679,2025-09-10,Debit Card,Processing,Chennai,128.51,9527.62,
+312,154,2026-09-23,Credit Card,Delivered,Hyderabad,37.63,22370.43,2026-09-29
+313,285,2025-02-26,Credit Card,Shipped,Mysuru,5.96,41203.29,
+314,734,2024-02-24,Credit Card,Delivered,Mysuru,11.65,11365.75,2024-02-27
+315,669,2024-08-15,Credit Card,Processing,Bhopal,88.9,28613.83,
+316,35,2025-06-27,Debit Card,Delivered,Delhi,99.66,28629.27,2025-07-01
+317,653,2026-09-21,Debit Card,Delivered,Bhopal,81.91,30197.84,2026-09-22
+318,90,2024-06-12,Cash on Delivery,Processing,Mumbai,18.85,29027.96,
+319,119,2025-12-04,Net Banking,Shipped,Delhi,186.72,18511.58,
+320,118,2026-06-23,UPI,Delivered,Kolkata,12.11,32275.49,2026-06-30
+321,56,2024-03-28,Wallet,Delivered,Kochi,111.75,21478.94,2024-04-09
+322,930,2024-06-28,UPI,Delivered,Pune,195.74,42149.21,2024-07-01
+323,671,2026-07-15,Credit Card,Delivered,Kolkata,188.35,28006.97,2026-07-21
+324,835,2026-03-01,Wallet,Cancelled,Coimbatore,181.78,15791.44,
+325,182,2026-07-04,UPI,Delivered,Lucknow,194.72,16697.73,2026-07-14
+326,341,2024-08-30,Credit Card,Delivered,Kochi,72.82,16571.97,2024-09-04
+327,359,2025-07-25,Credit Card,Shipped,Lucknow,16.53,33045.86,
+328,846,2025-04-14,Wallet,Cancelled,Coimbatore,189.59,12128.8,
+329,829,2025-01-31,Net Banking,Delivered,Kochi,185.44,39098.11,2025-02-10
+330,906,2025-02-22,Net Banking,Processing,Jaipur,87.96,25774.67,
+331,850,2024-03-23,Net Banking,Cancelled,Coimbatore,31.77,17213.62,
+332,112,2026-04-05,Debit Card,Processing,Coimbatore,60.36,9830.92,
+333,885,2024-10-05,UPI,Delivered,Kochi,61.21,21963.59,2024-10-08
+334,345,2026-03-20,Cash on Delivery,Cancelled,Bhopal,86.13,39405.16,
+335,805,2024-06-25,Wallet,Delivered,Chennai,193.01,23573.37,2024-06-27
+336,728,2025-09-19,Credit Card,Shipped,Jaipur,154.05,7742.12,2025-09-27
+337,315,2024-08-18,Cash on Delivery,Delivered,Visakhapatnam,134.76,31106.74,2024-08-25
+338,24,2025-02-18,Debit Card,Shipped,Bhopal,51.67,20761.82,2025-02-22
+339,319,2024-07-19,Wallet,Cancelled,Kochi,149.2,9816.74,
+340,412,2024-02-22,UPI,Delivered,Visakhapatnam,121.65,32734.52,2024-02-25
+341,731,2026-01-17,Wallet,Cancelled,Jaipur,173.59,12633.21,
+342,207,2024-04-17,UPI,Processing,Bengaluru,88.9,8164.78,
+343,14,2024-08-02,UPI,Delivered,Visakhapatnam,182.88,6702.4,2024-08-14
+344,604,2026-04-22,Debit Card,Shipped,Pune,151.62,17117.13,
+345,701,2026-01-02,Cash on Delivery,Processing,Chennai,194.58,33670.97,
+346,337,2026-06-07,Debit Card,Delivered,Mysuru,183.33,15146.67,2026-06-11
+347,543,2024-06-18,Wallet,Cancelled,Bengaluru,23.76,28168.05,
+348,4,2025-04-27,UPI,Delivered,Visakhapatnam,155.1,20274.56,2025-05-04
+349,437,2024-01-29,Wallet,Processing,Bengaluru,137.36,27381.59,
+350,611,2026-06-19,Credit Card,Processing,Coimbatore,126.11,19421.15,
+351,497,2024-12-12,UPI,Delivered,Visakhapatnam,8.02,13456.53,2024-12-21
+352,690,2026-01-10,Credit Card,Cancelled,Hyderabad,109.26,32100.35,
+353,667,2024-09-20,Credit Card,Cancelled,Mumbai,172.76,38750.64,
+354,845,2024-05-04,UPI,Shipped,Coimbatore,116.43,36303.58,2024-05-13
+355,399,2026-03-31,Debit Card,Shipped,Hyderabad,135.77,8933.89,
+356,714,2026-02-05,UPI,Delivered,Mysuru,17.8,17353.72,2026-02-12
+357,5,2025-05-06,Wallet,Delivered,Jaipur,43.3,14052.19,2025-05-18
+358,712,2024-04-25,UPI,Processing,Ahmedabad,107.1,4645.04,
+359,226,2024-01-25,Credit Card,Delivered,Coimbatore,59.98,25468.42,2024-01-31
+360,48,2024-05-30,Wallet,Delivered,Kochi,73.29,52655.9,2024-06-06
+361,814,2024-09-07,UPI,Delivered,Kochi,132.88,13475.24,2024-09-09
+362,4,2024-11-29,Net Banking,Delivered,Visakhapatnam,163.22,24102.04,2024-12-02
+363,518,2026-04-19,Cash on Delivery,Processing,Mysuru,156.66,12010.52,
+364,346,2024-11-24,Net Banking,Cancelled,Ahmedabad,152.22,18476.36,
+365,338,2026-04-06,Debit Card,Delivered,Pune,26.66,28751.9,2026-04-12
+366,159,2025-01-20,UPI,Cancelled,Chennai,9.08,14477.18,
+367,158,2024-10-29,Credit Card,Delivered,Hyderabad,86.59,22529.97,2024-11-06
+368,38,2025-01-01,Net Banking,Delivered,Kochi,87.87,33389.63,2025-01-07
+369,825,2024-09-26,UPI,Cancelled,Lucknow,95.66,9896.34,
+370,499,2024-11-21,Cash on Delivery,Delivered,Kochi,194.76,11695.04,2024-11-26
+371,867,2024-11-28,Debit Card,Cancelled,Jaipur,91.34,10649.42,
+372,790,2026-02-08,Net Banking,Shipped,Jaipur,136.36,17548.7,
+373,257,2024-05-19,Credit Card,Delivered,Ahmedabad,88.62,34622.94,2024-05-31
+374,347,2024-08-01,Cash on Delivery,Cancelled,Chennai,109.15,19676.16,
+375,129,2024-08-11,Wallet,Processing,Ahmedabad,85.82,11725.43,
+376,711,2024-01-31,Wallet,Delivered,Bengaluru,102.89,20963.46,2024-02-01
+377,343,2026-03-09,Cash on Delivery,Delivered,Mysuru,154.71,13163.32,2026-03-13
+378,429,2026-01-30,Credit Card,Delivered,Chennai,190.44,15904.92,2026-02-05
+379,699,2025-11-02,Wallet,Cancelled,Pune,64.01,6332.39,
+380,348,2024-12-18,Net Banking,Delivered,Kochi,31.6,16198.07,2024-12-21
+381,216,2026-05-30,Net Banking,Shipped,Lucknow,149.17,1856.96,2026-06-03
+382,106,2024-04-18,Net Banking,Delivered,Ahmedabad,166.35,14632.51,2024-04-20
+383,169,2024-02-28,Net Banking,Delivered,Visakhapatnam,31.37,34620.7,2024-03-08
+384,591,2025-07-20,Credit Card,Delivered,Pune,6.44,12103.97,2025-07-30
+385,192,2024-01-31,Net Banking,Delivered,Chennai,148.63,10444.21,2024-02-11
+386,276,2025-05-22,UPI,Delivered,Jaipur,12.05,9407.05,2025-05-26
+387,410,2026-08-04,Credit Card,Delivered,Coimbatore,88.68,14545.64,2026-08-14
+388,214,2024-07-08,Net Banking,Shipped,Jaipur,166.19,21146.41,
+389,164,2025-07-30,Wallet,Delivered,Visakhapatnam,155.72,3311.06,2025-07-31
+390,408,2026-02-13,Cash on Delivery,Delivered,Hyderabad,51.76,14499.98,2026-02-25
+391,225,2026-01-25,UPI,Processing,Jaipur,44.75,10222.14,
+392,164,2026-07-05,Net Banking,Processing,Visakhapatnam,23.46,18294.74,
+393,61,2024-05-08,Debit Card,Shipped,Coimbatore,142.99,23331.51,
+394,365,2026-09-27,Cash on Delivery,Delivered,Lucknow,117.03,18755.49,2026-10-06
+395,446,2024-11-04,UPI,Delivered,Bengaluru,83.32,11984.66,2024-11-13
+396,682,2026-01-02,UPI,Delivered,Visakhapatnam,112.44,10954.33,2026-01-05
+397,926,2025-01-15,UPI,Delivered,Kolkata,175.54,23001.5,2025-01-25
+398,599,2024-08-18,Credit Card,Delivered,Visakhapatnam,178.85,19802.77,2024-08-19
+399,251,2025-01-01,Wallet,Delivered,Bengaluru,8.11,21252.09,2025-01-11
+400,232,2024-12-11,Cash on Delivery,Delivered,Chennai,65.38,18705.35,2024-12-20
+401,828,2025-07-27,Credit Card,Delivered,Lucknow,138.33,20592.12,2025-08-01
+402,404,2026-07-30,Debit Card,Delivered,Jaipur,117.83,1806.18,2026-08-02
+403,771,2024-10-03,Cash on Delivery,Delivered,Mysuru,32.18,14194.76,2024-10-13
+404,630,2024-05-17,Net Banking,Delivered,Delhi,23.46,9366.02,2024-05-25
+405,317,2025-08-25,Wallet,Delivered,Visakhapatnam,55.29,13035.21,2025-08-30
+406,96,2025-08-02,Net Banking,Delivered,Pune,179.44,10446.49,2025-08-09
+407,78,2025-12-20,Debit Card,Delivered,Pune,19.88,44713.92,2025-12-28
+408,155,2025-11-14,Cash on Delivery,Processing,Lucknow,125.28,42884.94,
+409,436,2024-05-03,Debit Card,Shipped,Mumbai,160.92,8796.95,
+410,896,2024-05-20,Debit Card,Delivered,Mumbai,12.16,11115.34,2024-05-26
+411,11,2024-11-21,Wallet,Delivered,Visakhapatnam,53.91,21944.01,2024-11-25
+412,862,2024-02-20,Cash on Delivery,Processing,Bhopal,169.42,52364.44,
+413,130,2025-01-18,Wallet,Cancelled,Bengaluru,147.51,1788.51,
+414,818,2025-11-22,Cash on Delivery,Delivered,Chennai,139.38,21189.16,2025-11-27
+415,495,2025-05-19,Cash on Delivery,Delivered,Jaipur,85.85,18819.53,2025-05-29
+416,572,2025-03-16,Cash on Delivery,Delivered,Pune,18.96,24014.54,2025-03-28
+417,682,2024-10-23,Wallet,Shipped,Visakhapatnam,54.71,33397.14,
+418,555,2024-06-24,Wallet,Delivered,Chennai,139.19,63138.33,2024-06-25
+419,521,2024-09-29,Wallet,Shipped,Bengaluru,95.97,30587.46,
+420,896,2024-11-22,Credit Card,Cancelled,Mumbai,74.27,41584.1,
+421,891,2024-12-24,Credit Card,Delivered,Jaipur,150.24,20409.32,2025-01-01
+422,566,2025-02-25,Credit Card,Delivered,Pune,117.21,15596.2,2025-02-28
+423,945,2024-10-07,Wallet,Delivered,Jaipur,57.21,26147.52,2024-10-10
+424,455,2024-02-10,Credit Card,Delivered,Chennai,81.57,5847.36,2024-02-14
+425,69,2025-05-03,UPI,Delivered,Mumbai,128.76,8750.57,2025-05-15
+426,589,2024-08-12,UPI,Delivered,Pune,73.78,19324.22,2024-08-20
+427,89,2026-08-30,Credit Card,Processing,Lucknow,44.22,6643.4,
+428,473,2025-05-12,Net Banking,Cancelled,Jaipur,7.42,31441.66,
+429,447,2026-06-10,Credit Card,Delivered,Chennai,77.79,7808.87,2026-06-16
+430,475,2024-06-26,Credit Card,Delivered,Delhi,54.0,28699.26,2024-06-30
+431,806,2025-02-24,Credit Card,Delivered,Coimbatore,2.47,16359.36,2025-03-01
+432,205,2026-01-02,Net Banking,Delivered,Hyderabad,77.43,22114.32,2026-01-05
+433,482,2025-11-05,Cash on Delivery,Shipped,Bengaluru,104.15,28406.39,
+434,300,2024-07-03,Debit Card,Processing,Mysuru,193.96,3366.63,
+435,103,2025-06-07,Debit Card,Processing,Visakhapatnam,87.83,25876.2,
+436,715,2024-07-06,UPI,Delivered,Kolkata,175.56,28907.91,2024-07-11
+437,788,2025-05-23,Net Banking,Delivered,Visakhapatnam,43.59,6095.59,2025-05-28
+438,584,2026-02-18,Cash on Delivery,Delivered,Chennai,32.94,37336.27,2026-02-25
+439,582,2024-02-12,Cash on Delivery,Delivered,Bengaluru,136.95,31684.0,2024-02-13
+440,348,2024-08-20,UPI,Processing,Kochi,174.0,39542.99,
+441,401,2026-01-13,UPI,Delivered,Jaipur,46.66,14455.42,2026-01-22
+442,269,2025-11-19,Cash on Delivery,Shipped,Kochi,9.93,32567.43,
+443,269,2024-10-09,Debit Card,Delivered,Kochi,90.95,21587.43,2024-10-16
+444,918,2025-02-28,Wallet,Shipped,Lucknow,26.14,9085.9,
+445,90,2025-06-15,Wallet,Delivered,Mumbai,162.48,11592.61,2025-06-23
+446,171,2025-08-13,UPI,Delivered,Coimbatore,2.21,30544.68,2025-08-20
+447,298,2026-09-26,Wallet,Delivered,Lucknow,72.3,9777.18,2026-09-30
+448,254,2025-03-30,Wallet,Delivered,Pune,182.05,20393.5,2025-04-07
+449,451,2025-11-12,Credit Card,Delivered,Coimbatore,4.43,4948.92,2025-11-24
+450,431,2025-02-24,Wallet,Shipped,Mumbai,181.33,4950.79,
+451,520,2025-03-17,Net Banking,Delivered,Bengaluru,43.39,20964.23,2025-03-27
+452,210,2024-11-07,Wallet,Cancelled,Bhopal,161.83,30491.09,
+453,331,2026-05-18,Debit Card,Delivered,Kolkata,167.92,16612.8,2026-05-19
+454,664,2026-05-27,UPI,Processing,Hyderabad,84.09,35265.52,
+455,417,2025-02-04,UPI,Delivered,Bengaluru,37.18,19415.21,2025-02-15
+456,486,2024-07-15,UPI,Processing,Pune,115.69,13149.62,
+457,576,2024-06-06,UPI,Shipped,Bhopal,139.78,41637.54,
+458,547,2025-03-09,Wallet,Delivered,Mumbai,121.54,10352.53,2025-03-21
+459,606,2025-07-02,Wallet,Cancelled,Bengaluru,189.78,21921.71,
+460,656,2025-09-07,Cash on Delivery,Cancelled,Mysuru,3.84,14248.34,
+461,184,2024-03-06,Cash on Delivery,Processing,Pune,67.66,14928.85,
+462,544,2024-06-15,Wallet,Delivered,Hyderabad,46.17,16013.39,2024-06-27
+463,842,2026-01-28,Net Banking,Delivered,Mysuru,92.72,22211.56,2026-02-08
+464,657,2024-10-04,Cash on Delivery,Cancelled,Kolkata,44.14,20741.42,
+465,944,2026-01-10,Net Banking,Cancelled,Kolkata,28.24,11901.13,
+466,794,2024-02-17,UPI,Delivered,Lucknow,94.71,10989.22,2024-02-25
+467,209,2024-02-01,Credit Card,Processing,Ahmedabad,125.19,14800.6,
+468,542,2024-06-18,Wallet,Processing,Coimbatore,188.23,28077.2,
+469,872,2024-01-20,UPI,Shipped,Hyderabad,29.31,15191.11,
+470,78,2025-03-05,Credit Card,Processing,Pune,0.43,31282.02,
+471,820,2025-04-28,Net Banking,Shipped,Hyderabad,77.99,5746.58,2025-05-01
+472,59,2025-10-12,Cash on Delivery,Delivered,Pune,197.86,31248.67,2025-10-18
+473,391,2025-10-07,UPI,Cancelled,Kochi,36.59,27880.02,
+474,754,2026-02-03,Net Banking,Delivered,Delhi,161.29,17404.55,2026-02-07
+475,611,2024-01-20,UPI,Processing,Coimbatore,17.91,10971.82,
+476,188,2025-07-18,Credit Card,Delivered,Chennai,113.41,32906.84,2025-07-19
+477,941,2026-02-11,Wallet,Delivered,Pune,48.21,41921.34,2026-02-15
+478,783,2025-03-11,Net Banking,Delivered,Kolkata,99.75,25820.35,2025-03-15
+479,847,2025-12-19,Net Banking,Delivered,Kochi,167.24,26132.89,2025-12-27
+480,255,2025-06-14,Net Banking,Delivered,Kolkata,55.01,46301.86,2025-06-18
+481,40,2025-01-25,Debit Card,Shipped,Chennai,160.55,34365.12,
+482,581,2026-04-16,Net Banking,Shipped,Delhi,192.59,14691.07,2026-04-26
+483,189,2024-06-18,Cash on Delivery,Shipped,Chennai,112.17,56266.25,
+484,598,2025-02-21,Cash on Delivery,Delivered,Delhi,37.64,17190.31,2025-02-27
+485,753,2025-05-03,Net Banking,Shipped,Pune,110.64,14548.59,
+486,13,2024-11-04,UPI,Delivered,Hyderabad,49.16,19118.42,2024-11-08
+487,336,2024-07-23,UPI,Processing,Bengaluru,105.05,11310.68,
+488,31,2024-01-05,Wallet,Delivered,Visakhapatnam,57.63,36135.38,2024-01-17
+489,69,2026-09-06,UPI,Delivered,Mumbai,147.5,15160.55,2026-09-11
+490,18,2024-07-28,UPI,Processing,Mumbai,161.49,31072.1,
+491,606,2025-09-19,Debit Card,Processing,Bengaluru,86.52,12127.23,
+492,931,2024-01-12,Credit Card,Delivered,Coimbatore,123.6,24699.28,2024-01-18
+493,32,2025-08-06,Net Banking,Shipped,Coimbatore,197.67,13690.38,
+494,129,2026-07-26,Credit Card,Processing,Ahmedabad,187.09,22172.73,
+495,901,2024-01-05,Cash on Delivery,Delivered,Ahmedabad,94.3,5084.28,2024-01-07
+496,441,2025-08-08,Net Banking,Delivered,Lucknow,194.66,24494.06,2025-08-13
+497,264,2024-05-03,Debit Card,Cancelled,Delhi,32.51,16671.87,
+498,871,2025-02-18,Debit Card,Delivered,Jaipur,2.53,18647.68,2025-02-26
+499,64,2024-08-19,Wallet,Shipped,Chennai,17.15,18197.65,
+500,856,2025-08-20,UPI,Processing,Delhi,143.72,40865.82,
+501,195,2024-11-01,Net Banking,Cancelled,Delhi,36.59,41010.73,
+502,442,2024-01-27,UPI,Shipped,Lucknow,149.21,30786.81,
+503,797,2026-02-14,Cash on Delivery,Processing,Visakhapatnam,14.19,15592.25,
+504,356,2024-03-21,Debit Card,Delivered,Kolkata,69.98,17284.92,2024-03-22
+505,355,2025-07-11,Credit Card,Cancelled,Mumbai,15.73,52919.79,
+506,617,2025-11-13,UPI,Delivered,Coimbatore,183.44,33857.04,2025-11-17
+507,735,2024-11-14,Wallet,Delivered,Pune,177.66,19086.74,2024-11-15
+508,215,2025-08-25,Wallet,Shipped,Chennai,78.34,32275.09,
+509,762,2024-01-22,Net Banking,Cancelled,Pune,88.52,43211.29,
+510,290,2025-12-09,Cash on Delivery,Shipped,Bhopal,141.15,54879.85,
+511,480,2024-11-03,Credit Card,Delivered,Kochi,169.15,32860.02,2024-11-13
+512,43,2025-11-26,Net Banking,Cancelled,Bengaluru,23.38,25665.5,
+513,388,2024-04-12,UPI,Delivered,Mumbai,66.72,10778.68,2024-04-23
+514,115,2025-08-31,Net Banking,Cancelled,Pune,80.25,26081.16,
+515,695,2024-01-08,Debit Card,Shipped,Hyderabad,95.0,46850.98,2024-01-11
+516,400,2026-02-02,Credit Card,Delivered,Chennai,163.75,13249.45,2026-02-09
+517,894,2025-02-21,Net Banking,Delivered,Visakhapatnam,49.39,38895.87,2025-03-05
+518,76,2026-01-27,Debit Card,Processing,Visakhapatnam,59.94,48677.79,
+519,833,2024-02-23,Cash on Delivery,Shipped,Coimbatore,47.06,8204.98,2024-02-25
+520,559,2025-08-24,Credit Card,Delivered,Chennai,2.18,3610.86,2025-08-30
+521,24,2025-09-14,Cash on Delivery,Delivered,Bhopal,67.45,56322.04,2025-09-16
+522,665,2026-04-24,Wallet,Delivered,Chennai,192.87,54108.78,2026-04-29
+523,330,2024-09-20,Credit Card,Delivered,Kochi,195.32,41658.14,2024-09-26
+524,527,2024-04-02,Debit Card,Delivered,Chennai,110.93,25966.42,2024-04-07
+525,408,2025-02-19,Wallet,Delivered,Hyderabad,172.52,36186.42,2025-02-25
+526,418,2025-01-24,UPI,Delivered,Kolkata,46.71,74192.36,2025-02-01
+527,304,2025-04-04,Debit Card,Cancelled,Mysuru,30.7,36282.06,
+528,517,2025-01-08,UPI,Delivered,Lucknow,14.13,37607.68,2025-01-16
+529,324,2025-03-09,Credit Card,Delivered,Bengaluru,69.03,30351.44,2025-03-13
+530,605,2024-11-30,Net Banking,Delivered,Delhi,88.03,15300.48,2024-12-12
+531,598,2024-02-25,Credit Card,Delivered,Delhi,143.81,30781.36,2024-03-06
+532,440,2024-12-04,UPI,Shipped,Visakhapatnam,176.15,35953.56,
+533,384,2025-12-04,Wallet,Shipped,Lucknow,9.79,15125.04,
+534,103,2025-07-31,Net Banking,Delivered,Visakhapatnam,32.62,43456.86,2025-08-12
+535,218,2026-03-16,Credit Card,Cancelled,Hyderabad,26.52,8841.65,
+536,782,2024-06-16,Credit Card,Shipped,Chennai,186.02,32877.13,
+537,637,2026-08-13,UPI,Cancelled,Visakhapatnam,31.73,36287.47,
+538,590,2024-04-06,Credit Card,Delivered,Kochi,137.06,16069.74,2024-04-09
+539,305,2025-05-21,Debit Card,Cancelled,Visakhapatnam,14.05,21102.84,
+540,707,2024-12-16,Credit Card,Delivered,Mumbai,178.44,24640.1,2024-12-25
+541,128,2024-01-31,Net Banking,Delivered,Jaipur,142.61,44918.67,2024-02-03
+542,461,2025-04-23,Net Banking,Shipped,Ahmedabad,43.45,36330.83,
+543,4,2024-07-31,Wallet,Processing,Visakhapatnam,71.94,49329.98,
+544,295,2024-03-27,Wallet,Cancelled,Delhi,163.99,52380.31,
+545,664,2026-06-08,UPI,Shipped,Hyderabad,94.18,20214.89,
+546,863,2026-08-06,Debit Card,Shipped,Mumbai,165.25,33407.3,
+547,422,2026-01-16,Cash on Delivery,Delivered,Delhi,56.26,49466.51,2026-01-28
+548,696,2025-05-11,UPI,Cancelled,Bengaluru,114.29,37374.77,
+549,888,2024-10-15,Wallet,Processing,Mumbai,139.74,54681.73,
+550,228,2026-09-25,Debit Card,Processing,Chennai,51.19,14576.63,
+551,576,2026-08-13,Cash on Delivery,Delivered,Bhopal,45.37,15495.17,2026-08-17
+552,544,2025-12-21,Cash on Delivery,Delivered,Hyderabad,186.87,42428.83,2025-12-30
+553,539,2024-05-24,Cash on Delivery,Delivered,Delhi,40.8,39343.1,2024-05-31
+554,51,2025-01-28,Wallet,Cancelled,Ahmedabad,15.33,48936.04,
+555,589,2025-09-05,Net Banking,Processing,Pune,193.52,50486.68,
+556,198,2026-06-23,Cash on Delivery,Cancelled,Visakhapatnam,107.77,27267.81,
+557,61,2025-08-10,Net Banking,Delivered,Coimbatore,83.02,32170.44,2025-08-22
+558,701,2025-06-02,Debit Card,Shipped,Chennai,189.27,41109.94,2025-06-06
+559,482,2025-03-17,UPI,Delivered,Bengaluru,1.14,36314.22,2025-03-28
+560,366,2024-03-14,Cash on Delivery,Shipped,Mysuru,76.14,24945.3,
+561,627,2025-04-28,Credit Card,Delivered,Kochi,0.98,40593.89,2025-05-07
+562,857,2024-11-21,Credit Card,Shipped,Bengaluru,172.59,24463.18,2024-11-27
+563,939,2024-08-05,Credit Card,Processing,Pune,127.95,39244.01,
+564,276,2025-11-15,Net Banking,Processing,Jaipur,2.41,30808.57,
+565,139,2026-05-10,Debit Card,Delivered,Chennai,66.99,18613.27,2026-05-11
+566,326,2026-07-25,Net Banking,Delivered,Coimbatore,92.34,20482.51,2026-07-31
+567,656,2025-10-16,Wallet,Delivered,Mysuru,114.03,17531.88,2025-10-19
+568,632,2024-09-13,Debit Card,Delivered,Kochi,29.28,12180.2,2024-09-22
+569,626,2026-05-11,Debit Card,Delivered,Ahmedabad,93.26,26063.67,2026-05-19
+570,546,2025-03-23,Wallet,Shipped,Coimbatore,72.15,36478.42,
+571,536,2026-01-08,UPI,Delivered,Visakhapatnam,40.09,32586.55,2026-01-13
+572,585,2025-03-06,Credit Card,Delivered,Ahmedabad,48.69,21115.75,2025-03-11
+573,471,2025-03-06,Credit Card,Shipped,Kochi,58.21,55991.68,
+574,673,2026-09-16,Debit Card,Cancelled,Ahmedabad,182.04,22881.13,
+575,842,2024-12-14,Wallet,Processing,Mysuru,62.17,20689.02,
+576,148,2024-08-13,UPI,Cancelled,Ahmedabad,94.28,18339.25,
+577,37,2025-12-26,Debit Card,Shipped,Mysuru,62.96,66684.55,
+578,73,2025-10-04,Debit Card,Shipped,Coimbatore,83.72,22430.44,
+579,598,2024-03-07,Cash on Delivery,Delivered,Delhi,98.33,15202.69,2024-03-11
+580,270,2025-07-17,Credit Card,Processing,Mumbai,88.22,25969.7,
+581,608,2025-02-12,Cash on Delivery,Cancelled,Kochi,21.65,5750.08,
+582,663,2026-03-19,Net Banking,Processing,Bengaluru,104.08,48391.04,
+583,398,2026-01-02,Cash on Delivery,Processing,Bengaluru,7.29,35007.61,
+584,622,2026-07-03,Net Banking,Delivered,Kolkata,44.56,30830.23,2026-07-04
+585,503,2024-12-01,Net Banking,Shipped,Visakhapatnam,101.7,43063.35,
+586,242,2026-01-27,Debit Card,Delivered,Bengaluru,152.42,37442.72,2026-02-07
+587,451,2025-11-23,UPI,Delivered,Coimbatore,71.14,35190.74,2025-11-28
+588,319,2025-01-11,Credit Card,Processing,Kochi,106.94,45523.32,
+589,233,2025-10-25,Wallet,Delivered,Kolkata,169.32,56509.4,2025-11-04
+590,449,2026-06-18,Debit Card,Shipped,Coimbatore,122.96,31390.06,
+591,422,2026-09-26,Credit Card,Shipped,Delhi,114.33,24940.46,
+592,628,2024-11-22,Credit Card,Shipped,Coimbatore,43.51,45638.59,
+593,616,2026-07-20,Credit Card,Cancelled,Delhi,133.2,23858.06,
+594,579,2026-04-29,Net Banking,Delivered,Mumbai,65.95,31499.77,2026-05-01
+595,876,2026-01-24,Net Banking,Delivered,Ahmedabad,13.73,40193.16,2026-01-25
+596,933,2024-07-31,Cash on Delivery,Delivered,Kochi,58.04,30615.13,2024-08-06
+597,291,2025-10-27,Credit Card,Delivered,Hyderabad,183.39,20331.79,2025-10-28
+598,920,2024-06-18,Net Banking,Delivered,Kochi,102.21,11096.72,2024-06-29
+599,396,2025-12-16,Wallet,Delivered,Bhopal,140.34,13384.05,2025-12-26
+600,881,2024-05-08,Cash on Delivery,Processing,Delhi,80.61,22295.34,
+601,744,2025-10-23,Cash on Delivery,Processing,Mysuru,76.51,14241.85,
+602,765,2025-01-21,UPI,Shipped,Lucknow,82.36,26318.5,
+603,138,2026-03-23,Net Banking,Delivered,Kolkata,26.59,27526.52,2026-03-27
+604,500,2025-01-01,Debit Card,Processing,Hyderabad,147.33,37987.26,
+605,834,2025-02-17,Debit Card,Delivered,Hyderabad,54.6,19560.24,2025-02-24
+606,445,2026-06-21,Credit Card,Delivered,Coimbatore,27.88,43025.78,2026-06-28
+607,69,2025-08-04,Net Banking,Processing,Mumbai,155.68,22442.45,
+608,702,2025-03-25,Credit Card,Shipped,Delhi,169.31,16084.46,
+609,761,2026-03-31,Credit Card,Delivered,Delhi,68.31,46702.1,2026-04-03
+610,547,2026-07-21,Net Banking,Processing,Mumbai,45.51,10949.73,
+611,749,2026-01-26,Wallet,Cancelled,Bhopal,16.65,23605.67,
+612,801,2025-08-25,Debit Card,Shipped,Chennai,104.67,22581.31,2025-09-01
+613,250,2025-03-27,Net Banking,Shipped,Chennai,129.48,21820.36,2025-04-06
+614,250,2024-03-28,Credit Card,Delivered,Chennai,41.02,16743.56,2024-04-04
+615,647,2024-04-16,Credit Card,Delivered,Mumbai,96.69,17816.6,2024-04-21
+616,339,2026-02-18,Wallet,Shipped,Bengaluru,166.95,31923.04,
+617,74,2025-01-16,Cash on Delivery,Delivered,Hyderabad,35.66,20253.76,2025-01-19
+618,443,2026-06-14,Debit Card,Delivered,Bhopal,194.38,31419.97,2026-06-16
+619,808,2024-06-06,Net Banking,Delivered,Bengaluru,80.34,36111.72,2024-06-08
+620,435,2026-07-03,Credit Card,Delivered,Mysuru,40.96,30429.19,2026-07-09
+621,890,2026-09-27,UPI,Processing,Coimbatore,25.97,24048.47,
+622,871,2024-03-18,Credit Card,Delivered,Jaipur,150.87,17429.45,2024-03-24
+623,530,2025-01-22,Debit Card,Delivered,Kochi,158.52,27848.72,2025-01-26
+624,191,2025-05-27,Net Banking,Shipped,Coimbatore,59.38,19917.01,
+625,198,2024-10-01,Wallet,Delivered,Visakhapatnam,148.34,47628.62,2024-10-06
+626,587,2025-07-17,Net Banking,Cancelled,Chennai,124.39,23669.73,
+627,414,2025-01-14,Net Banking,Delivered,Mysuru,111.98,45708.7,2025-01-21
+628,308,2024-04-17,Net Banking,Delivered,Kochi,94.07,40731.61,2024-04-22
+629,445,2026-01-06,Wallet,Delivered,Coimbatore,132.72,41015.07,2026-01-10
+630,774,2025-02-01,Wallet,Shipped,Ahmedabad,183.83,45618.63,
+631,641,2025-07-14,Cash on Delivery,Delivered,Kochi,64.47,37630.26,2025-07-25
+632,27,2025-02-26,Debit Card,Delivered,Pune,78.27,25400.67,2025-02-28
+633,882,2024-08-17,Net Banking,Cancelled,Kochi,188.32,29494.13,
+634,826,2024-08-01,Wallet,Shipped,Jaipur,26.03,43478.31,
+635,20,2025-07-23,Debit Card,Delivered,Lucknow,76.93,37571.79,2025-08-02
+636,802,2026-03-02,Credit Card,Shipped,Bhopal,78.98,22354.92,
+637,940,2026-04-15,UPI,Delivered,Bengaluru,118.97,41007.88,2026-04-26
+638,684,2024-04-22,UPI,Delivered,Hyderabad,127.76,46485.15,2024-05-03
+639,422,2025-11-29,Debit Card,Processing,Delhi,44.62,6973.15,
+640,805,2026-03-02,Credit Card,Processing,Chennai,5.48,33553.91,
+641,232,2024-08-25,Cash on Delivery,Delivered,Chennai,193.44,18291.12,2024-08-26
+642,559,2026-03-27,UPI,Cancelled,Chennai,52.8,26962.58,
+643,258,2026-07-19,Wallet,Processing,Ahmedabad,18.14,30097.08,
+644,921,2026-08-02,Cash on Delivery,Delivered,Pune,177.83,28257.21,2026-08-12
+645,41,2024-09-09,Credit Card,Delivered,Bhopal,28.73,46651.56,2024-09-10
+646,327,2024-07-21,Debit Card,Delivered,Bengaluru,84.67,12548.01,2024-07-23
+647,807,2025-05-07,Debit Card,Delivered,Hyderabad,170.19,52596.8,2025-05-18
+648,949,2026-05-17,Cash on Delivery,Delivered,Delhi,198.28,6830.21,2026-05-20
+649,471,2026-05-21,Debit Card,Cancelled,Kochi,59.52,44393.0,
+650,503,2025-01-24,UPI,Delivered,Visakhapatnam,171.18,31601.31,2025-02-03
+651,674,2025-01-23,Credit Card,Delivered,Delhi,155.71,25513.23,2025-02-04
+652,85,2026-07-31,Debit Card,Delivered,Pune,43.34,57627.97,2026-08-05
+653,346,2024-06-20,Wallet,Delivered,Ahmedabad,34.92,47649.0,2024-06-28
+654,829,2024-03-07,Debit Card,Cancelled,Kochi,92.84,34185.74,
+655,519,2025-08-06,Wallet,Processing,Pune,43.96,43737.84,
+656,940,2025-02-15,Net Banking,Delivered,Bengaluru,72.76,40307.47,2025-02-22
+657,137,2026-02-17,Debit Card,Cancelled,Jaipur,71.96,19989.31,
+658,880,2025-10-31,Cash on Delivery,Delivered,Visakhapatnam,22.14,7486.81,2025-11-12
+659,456,2026-03-07,Cash on Delivery,Delivered,Delhi,174.51,9117.94,2026-03-10
+660,145,2024-01-08,Credit Card,Shipped,Chennai,81.12,30296.63,2024-01-12
+661,180,2025-07-23,Debit Card,Delivered,Mumbai,56.5,19199.97,2025-07-24
+662,95,2024-02-09,Debit Card,Cancelled,Lucknow,149.51,17436.32,
+663,684,2024-01-31,Debit Card,Delivered,Hyderabad,38.65,32638.47,2024-02-07
+664,121,2025-10-16,Credit Card,Cancelled,Mumbai,186.27,20760.22,
+665,949,2025-07-07,Cash on Delivery,Delivered,Delhi,169.45,25655.76,2025-07-09
+666,341,2026-06-11,Wallet,Delivered,Kochi,156.54,35924.76,2026-06-16
+667,905,2025-10-05,Wallet,Delivered,Mysuru,109.57,41898.78,2025-10-14
+668,728,2026-09-18,Wallet,Delivered,Jaipur,134.06,9878.65,2026-09-22
+669,413,2025-09-02,Cash on Delivery,Processing,Kolkata,2.73,23724.38,
+670,778,2024-10-11,Credit Card,Delivered,Bengaluru,114.61,23742.93,2024-10-17
+671,533,2025-09-14,Credit Card,Processing,Visakhapatnam,85.4,29942.46,
+672,464,2026-02-13,Net Banking,Delivered,Ahmedabad,73.88,21850.56,2026-02-17
+673,680,2025-07-27,Wallet,Delivered,Bhopal,59.47,9889.29,2025-08-04
+674,409,2025-09-22,Debit Card,Processing,Bengaluru,31.99,39045.7,
+675,822,2026-06-16,UPI,Delivered,Lucknow,105.77,8382.01,2026-06-17
+676,281,2024-03-22,Debit Card,Shipped,Delhi,141.18,25735.78,
+677,470,2024-10-15,Credit Card,Processing,Bengaluru,184.71,47294.4,
+678,378,2025-04-08,Credit Card,Delivered,Visakhapatnam,47.59,17747.25,2025-04-11
+679,869,2024-03-25,Net Banking,Delivered,Kolkata,127.37,18715.91,2024-04-04
+680,402,2024-07-07,UPI,Cancelled,Visakhapatnam,122.83,29379.35,
+681,310,2024-03-30,Credit Card,Shipped,Hyderabad,92.34,10957.26,
+682,487,2026-05-29,Debit Card,Delivered,Delhi,78.85,15815.38,2026-05-30
+683,545,2026-03-09,Debit Card,Delivered,Pune,1.51,17281.18,2026-03-13
+684,634,2024-08-19,Credit Card,Shipped,Kolkata,120.23,26757.94,2024-08-23
+685,862,2024-12-14,Cash on Delivery,Shipped,Bhopal,142.39,38977.73,
+686,637,2026-04-11,Wallet,Delivered,Visakhapatnam,45.15,38505.92,2026-04-22
+687,480,2025-04-21,Wallet,Processing,Kochi,152.91,56394.53,
+688,122,2025-09-21,Net Banking,Delivered,Coimbatore,188.05,48392.57,2025-10-03
+689,349,2024-02-29,Wallet,Delivered,Mumbai,35.18,17383.46,2024-03-02
+690,664,2024-11-24,Wallet,Shipped,Hyderabad,108.94,31308.36,
+691,561,2025-11-27,UPI,Shipped,Kolkata,4.78,12764.56,2025-12-06
+692,553,2024-12-30,UPI,Processing,Mumbai,30.91,42547.28,
+693,86,2024-10-19,Cash on Delivery,Delivered,Bhopal,120.65,31658.43,2024-10-28
+694,930,2025-12-14,Wallet,Delivered,Pune,173.87,47058.31,2025-12-25
+695,515,2026-05-21,Net Banking,Shipped,Bhopal,75.62,71872.97,2026-05-30
+696,351,2025-08-06,Debit Card,Delivered,Delhi,175.59,37628.75,2025-08-13
+697,168,2025-12-18,Debit Card,Shipped,Mysuru,78.19,34300.78,
+698,354,2024-08-13,Cash on Delivery,Delivered,Mysuru,97.31,25643.0,2024-08-18
+699,452,2025-06-07,Credit Card,Delivered,Kolkata,117.15,11133.18,2025-06-18
+700,323,2024-01-06,Credit Card,Shipped,Coimbatore,115.14,35488.25,
+701,769,2025-04-03,Debit Card,Shipped,Kolkata,141.48,37355.18,
+702,702,2026-06-17,Credit Card,Delivered,Delhi,172.43,8074.49,2026-06-20
+703,300,2026-07-03,Cash on Delivery,Shipped,Mysuru,91.83,37858.31,
+704,299,2025-12-15,Credit Card,Cancelled,Bhopal,10.34,27466.46,
+705,456,2025-10-22,Wallet,Cancelled,Delhi,175.29,5327.85,
+706,456,2024-01-13,Credit Card,Shipped,Delhi,39.23,8113.17,2024-01-17
+707,28,2026-04-21,Credit Card,Delivered,Visakhapatnam,177.38,58702.22,2026-04-30
+708,210,2026-02-09,Wallet,Delivered,Bhopal,84.15,11278.92,2026-02-21
+709,654,2024-03-28,Cash on Delivery,Cancelled,Coimbatore,41.16,38615.22,
+710,380,2026-07-28,Credit Card,Shipped,Chennai,55.71,26359.72,
+711,384,2024-02-21,Debit Card,Cancelled,Lucknow,192.86,7537.0,
+712,806,2026-07-10,Debit Card,Processing,Coimbatore,142.36,15621.77,
+713,654,2024-03-10,Credit Card,Delivered,Coimbatore,56.09,41882.81,2024-03-21
+714,854,2024-12-04,UPI,Delivered,Chennai,103.97,47534.95,2024-12-13
+715,202,2024-02-13,Net Banking,Processing,Mumbai,127.19,44443.77,
+716,563,2024-09-25,UPI,Delivered,Kochi,18.15,15453.34,2024-10-07
+717,447,2024-04-05,Debit Card,Delivered,Chennai,72.8,13370.99,2024-04-13
+718,594,2026-01-23,Debit Card,Cancelled,Chennai,103.74,75480.48,
+719,550,2024-07-31,Credit Card,Delivered,Delhi,37.73,31283.27,2024-08-12
+720,559,2025-01-13,Net Banking,Delivered,Chennai,72.58,23169.67,2025-01-15
+721,928,2026-03-06,Net Banking,Cancelled,Kochi,95.91,48351.65,
+722,620,2026-06-08,Net Banking,Delivered,Kolkata,0.86,31238.61,2026-06-11
+723,773,2025-01-28,Cash on Delivery,Shipped,Mumbai,117.91,18162.75,
+724,380,2026-08-24,UPI,Delivered,Chennai,84.87,15503.92,2026-09-05
+725,655,2025-04-12,Debit Card,Delivered,Hyderabad,110.56,52702.07,2025-04-21
+726,144,2024-11-22,UPI,Delivered,Mysuru,137.97,20876.5,2024-11-30
+727,150,2024-03-15,UPI,Delivered,Hyderabad,164.63,18509.76,2024-03-26
+728,358,2026-01-26,Wallet,Cancelled,Pune,96.2,66925.91,
+729,594,2025-08-19,Debit Card,Cancelled,Chennai,94.47,63892.04,
+730,42,2025-09-13,Cash on Delivery,Processing,Jaipur,143.96,34660.11,
+731,731,2025-01-10,Wallet,Delivered,Jaipur,32.13,46198.84,2025-01-14
+732,187,2024-05-10,Credit Card,Delivered,Mumbai,115.31,9911.42,2024-05-21
+733,432,2024-02-21,Net Banking,Delivered,Mysuru,66.58,26869.46,2024-02-23
+734,726,2026-04-28,Debit Card,Delivered,Coimbatore,83.39,21402.33,2026-05-06
+735,613,2025-04-11,Cash on Delivery,Processing,Coimbatore,182.78,35194.72,
+736,192,2024-04-20,Wallet,Delivered,Chennai,113.52,19344.54,2024-04-25
+737,852,2024-09-02,Credit Card,Delivered,Chennai,4.57,65187.65,2024-09-11
+738,318,2025-02-06,UPI,Processing,Visakhapatnam,66.28,12384.4,
+739,706,2026-06-20,Debit Card,Cancelled,Ahmedabad,134.38,20532.4,
+740,89,2025-08-26,Wallet,Delivered,Lucknow,111.34,19126.14,2025-09-06
+741,743,2024-07-21,Wallet,Delivered,Pune,63.73,33777.47,2024-07-22
+742,39,2025-08-26,Cash on Delivery,Delivered,Mumbai,104.74,9537.12,2025-08-31
+743,46,2024-06-26,Wallet,Processing,Bhopal,128.1,43183.2,
+744,52,2025-09-28,Net Banking,Cancelled,Lucknow,45.79,23170.55,
+745,404,2024-06-23,Cash on Delivery,Processing,Jaipur,182.32,14719.1,
+746,311,2026-03-09,Wallet,Shipped,Lucknow,177.93,15587.24,
+747,562,2026-08-27,Debit Card,Delivered,Chennai,134.19,51921.19,2026-09-05
+748,143,2024-04-06,Wallet,Processing,Delhi,116.32,29324.16,
+749,30,2026-02-14,Wallet,Cancelled,Bhopal,20.67,56740.98,
+750,544,2025-07-09,Credit Card,Delivered,Hyderabad,81.42,19407.05,2025-07-16
+751,607,2024-06-11,Debit Card,Delivered,Jaipur,84.6,30370.15,2024-06-18
+752,174,2024-07-10,Cash on Delivery,Processing,Mumbai,182.44,19490.98,
+753,549,2024-04-18,UPI,Delivered,Mumbai,64.37,24413.02,2024-04-23
+754,563,2026-05-08,UPI,Delivered,Kochi,181.51,36163.26,2026-05-16
+755,914,2026-08-27,Net Banking,Shipped,Ahmedabad,65.6,21941.32,
+756,83,2025-10-25,Debit Card,Delivered,Lucknow,167.46,16890.81,2025-10-28
+757,277,2025-08-31,Credit Card,Cancelled,Hyderabad,127.08,70020.24,
+758,604,2024-07-19,Debit Card,Delivered,Pune,24.57,36474.38,2024-07-27
+759,176,2025-08-08,Credit Card,Delivered,Bhopal,79.9,15136.36,2025-08-18
+760,841,2024-05-01,Debit Card,Cancelled,Visakhapatnam,111.6,22770.71,
+761,805,2024-06-25,Debit Card,Shipped,Chennai,129.59,32338.9,
+762,507,2026-06-24,UPI,Cancelled,Mumbai,18.31,56239.82,
+763,738,2025-01-24,Wallet,Processing,Jaipur,179.74,57017.48,
+764,68,2024-10-14,Credit Card,Shipped,Pune,130.41,31154.45,
+765,678,2026-08-20,Cash on Delivery,Delivered,Mysuru,130.33,24531.84,2026-08-25
+766,321,2024-09-03,Wallet,Delivered,Delhi,5.83,75056.72,2024-09-06
+767,419,2026-02-28,UPI,Processing,Jaipur,111.61,30161.63,
+768,365,2024-01-25,Net Banking,Cancelled,Lucknow,157.3,45380.55,
+769,170,2026-01-20,Net Banking,Delivered,Mysuru,10.18,38007.98,2026-02-01
+770,929,2024-05-25,Net Banking,Processing,Chennai,62.63,25167.36,
+771,142,2024-12-09,Cash on Delivery,Processing,Kolkata,197.57,29625.18,
+772,97,2024-11-15,Debit Card,Delivered,Coimbatore,68.34,57842.75,2024-11-25
+773,193,2024-03-21,Debit Card,Cancelled,Lucknow,144.25,18649.26,
+774,190,2026-06-25,Credit Card,Shipped,Bhopal,162.61,21116.49,
+775,542,2024-07-16,Credit Card,Processing,Coimbatore,142.27,35559.13,
+776,332,2024-04-06,Credit Card,Delivered,Delhi,94.85,53676.99,2024-04-13
+777,486,2024-07-09,UPI,Processing,Pune,168.2,15361.88,
+778,684,2024-11-21,Cash on Delivery,Shipped,Hyderabad,74.54,43363.86,2024-11-27
+779,122,2025-06-07,UPI,Cancelled,Coimbatore,87.97,15122.16,
+780,810,2026-05-14,Wallet,Delivered,Lucknow,183.67,27097.65,2026-05-15
+781,338,2026-01-08,Credit Card,Processing,Pune,163.48,22723.5,
+782,288,2026-03-11,Credit Card,Delivered,Lucknow,164.73,11252.87,2026-03-12
+783,379,2025-09-14,Credit Card,Delivered,Lucknow,79.75,10557.5,2025-09-19
+784,483,2025-01-05,Debit Card,Delivered,Hyderabad,87.87,15485.88,2025-01-16
+785,199,2026-07-05,UPI,Delivered,Coimbatore,103.75,46743.84,2026-07-07
+786,703,2025-10-30,Wallet,Delivered,Hyderabad,132.23,13871.27,2025-11-01
+787,479,2025-09-11,Wallet,Delivered,Chennai,77.58,14242.29,2025-09-14
+788,630,2024-03-26,Cash on Delivery,Cancelled,Delhi,10.66,20701.14,
+789,922,2024-03-18,Wallet,Delivered,Mysuru,88.09,31225.06,2024-03-27
+790,463,2025-05-14,UPI,Delivered,Lucknow,87.97,23101.51,2025-05-20
+791,11,2026-04-08,Debit Card,Delivered,Visakhapatnam,1.17,26733.31,2026-04-20
+792,654,2024-12-20,Cash on Delivery,Delivered,Coimbatore,33.85,34092.14,2024-12-21
+793,800,2026-01-06,Cash on Delivery,Delivered,Mysuru,54.36,32813.01,2026-01-13
+794,518,2024-04-08,Credit Card,Delivered,Mysuru,15.03,8763.62,2024-04-10
+795,251,2024-10-14,Credit Card,Shipped,Bengaluru,11.96,17303.34,
+796,33,2026-02-28,UPI,Processing,Pune,147.31,25354.88,
+797,244,2025-07-04,Wallet,Processing,Kolkata,134.67,37129.12,
+798,523,2025-08-29,UPI,Cancelled,Bengaluru,60.95,28762.32,
+799,264,2025-12-16,Cash on Delivery,Cancelled,Delhi,19.84,18845.17,
+800,374,2026-06-11,Debit Card,Delivered,Delhi,158.1,41063.11,2026-06-20
+801,83,2026-02-22,Net Banking,Delivered,Lucknow,175.55,25863.06,2026-03-04
+802,146,2025-09-23,Wallet,Shipped,Mumbai,68.48,40490.32,
+803,701,2026-04-10,Credit Card,Delivered,Chennai,136.93,17911.16,2026-04-12
+804,760,2025-02-15,Cash on Delivery,Shipped,Ahmedabad,183.81,11142.23,2025-02-25
+805,490,2026-02-04,Net Banking,Delivered,Lucknow,163.81,14241.29,2026-02-09
+806,908,2025-01-25,Wallet,Delivered,Bengaluru,98.35,5949.42,2025-01-27
+807,306,2024-06-27,Net Banking,Cancelled,Kochi,133.52,46083.59,
+808,269,2025-05-05,Cash on Delivery,Delivered,Kochi,167.5,59473.44,2025-05-14
+809,799,2026-09-11,Cash on Delivery,Delivered,Delhi,0.59,14130.08,2026-09-17
+810,186,2026-02-03,Credit Card,Delivered,Mysuru,155.11,52103.09,2026-02-13
+811,287,2024-03-06,Cash on Delivery,Delivered,Jaipur,180.66,22199.73,2024-03-09
+812,161,2024-10-14,Cash on Delivery,Shipped,Mysuru,24.69,39100.14,
+813,628,2026-01-16,Credit Card,Cancelled,Coimbatore,103.61,37723.21,
+814,890,2024-05-18,Cash on Delivery,Delivered,Coimbatore,97.58,25404.16,2024-05-28
+815,679,2024-04-14,Credit Card,Delivered,Chennai,86.1,11341.92,2024-04-16
+816,611,2025-04-17,Credit Card,Delivered,Coimbatore,165.73,44563.54,2025-04-24
+817,500,2026-07-24,UPI,Processing,Hyderabad,100.92,25249.24,
+818,782,2024-07-31,Credit Card,Cancelled,Chennai,163.84,21611.74,
+819,822,2025-12-08,UPI,Delivered,Lucknow,83.9,30794.35,2025-12-18
+820,773,2026-05-18,Cash on Delivery,Delivered,Mumbai,61.78,21236.78,2026-05-24
+821,796,2024-12-06,Wallet,Processing,Kolkata,44.76,13608.88,
+822,224,2025-09-10,Wallet,Cancelled,Pune,30.67,44713.82,
+823,758,2024-07-07,Credit Card,Delivered,Ahmedabad,110.97,39418.22,2024-07-19
+824,416,2026-04-10,Debit Card,Delivered,Lucknow,24.18,40686.69,2026-04-15
+825,240,2024-04-06,Wallet,Delivered,Mysuru,77.53,51472.76,2024-04-17
+826,346,2026-03-04,Cash on Delivery,Processing,Ahmedabad,9.18,29973.53,
+827,768,2025-09-17,Cash on Delivery,Processing,Chennai,172.38,64598.89,
+828,66,2024-03-09,Wallet,Delivered,Mumbai,42.94,22317.11,2024-03-17
+829,232,2025-12-24,Cash on Delivery,Delivered,Chennai,193.95,20948.08,2026-01-05
+830,538,2026-06-19,UPI,Cancelled,Pune,45.68,39942.93,
+831,97,2026-07-01,Wallet,Processing,Coimbatore,19.88,57600.68,
+832,685,2024-02-01,UPI,Delivered,Kolkata,137.93,42653.03,2024-02-13
+833,121,2025-11-15,Debit Card,Cancelled,Mumbai,102.44,30399.67,
+834,507,2024-12-25,Debit Card,Delivered,Mumbai,123.58,32966.38,2024-12-30
+835,96,2025-12-01,Debit Card,Cancelled,Pune,124.09,20065.24,
+836,393,2024-11-23,Wallet,Processing,Hyderabad,53.17,31375.73,
+837,391,2025-03-19,Net Banking,Processing,Kochi,132.13,18745.12,
+838,96,2025-08-05,Debit Card,Delivered,Pune,18.48,29885.99,2025-08-08
+839,670,2025-10-08,Debit Card,Delivered,Mumbai,58.52,20733.61,2025-10-12
+840,691,2025-06-13,Cash on Delivery,Processing,Bhopal,120.3,34970.28,
+841,261,2026-01-19,Credit Card,Delivered,Lucknow,101.04,46500.24,2026-01-29
+842,568,2024-12-03,Net Banking,Delivered,Chennai,4.14,28454.46,2024-12-08
+843,864,2025-10-08,Net Banking,Delivered,Hyderabad,49.5,26557.63,2025-10-10
+844,415,2024-12-02,Cash on Delivery,Delivered,Chennai,51.46,26935.89,2024-12-05
+845,521,2026-08-30,Cash on Delivery,Shipped,Bengaluru,42.24,59371.54,
+846,265,2025-04-12,UPI,Delivered,Pune,81.31,26742.65,2025-04-20
+847,83,2024-01-27,Net Banking,Delivered,Lucknow,158.89,61826.45,2024-02-03
+848,746,2024-11-29,Cash on Delivery,Delivered,Pune,129.87,22015.01,2024-12-04
+849,909,2026-01-10,Debit Card,Cancelled,Jaipur,35.96,36428.04,
+850,332,2026-02-16,Wallet,Delivered,Delhi,128.5,39385.39,2026-02-28
+851,923,2024-09-27,Debit Card,Delivered,Hyderabad,158.29,34992.43,2024-09-30
+852,58,2026-06-01,UPI,Cancelled,Visakhapatnam,170.99,39376.13,
+853,645,2025-02-25,Debit Card,Delivered,Mysuru,102.94,26944.13,2025-03-06
+854,227,2024-01-20,Cash on Delivery,Cancelled,Jaipur,167.14,32537.92,
+855,665,2024-08-01,Net Banking,Delivered,Chennai,151.06,30267.02,2024-08-08
+856,50,2026-07-01,Wallet,Delivered,Chennai,77.07,22802.62,2026-07-05
+857,610,2024-09-21,Net Banking,Shipped,Bengaluru,101.23,12295.26,2024-09-28
+858,696,2025-03-07,Debit Card,Delivered,Bengaluru,94.88,15351.62,2025-03-12
+859,473,2025-04-17,Cash on Delivery,Shipped,Jaipur,34.44,57796.46,
+860,937,2026-06-26,Cash on Delivery,Processing,Bhopal,97.19,27692.22,
+861,730,2024-12-08,Net Banking,Delivered,Visakhapatnam,116.9,50769.18,2024-12-16
+862,571,2025-05-01,Net Banking,Delivered,Coimbatore,4.98,31192.8,2025-05-11
+863,360,2024-07-23,Wallet,Delivered,Bhopal,17.57,16422.03,2024-08-03
+864,48,2025-08-07,Credit Card,Delivered,Kochi,146.96,66230.09,2025-08-13
+865,538,2026-09-08,Wallet,Delivered,Pune,130.28,13821.49,2026-09-09
+866,700,2026-07-26,UPI,Cancelled,Kolkata,151.78,9646.09,
+867,754,2024-09-08,UPI,Delivered,Delhi,116.4,25314.8,2024-09-10
+868,561,2024-04-14,Wallet,Cancelled,Kolkata,176.46,16434.97,
+869,314,2025-04-26,Net Banking,Shipped,Bengaluru,84.58,57291.25,
+870,410,2025-11-18,Net Banking,Cancelled,Coimbatore,170.84,16280.84,
+871,352,2025-09-06,Wallet,Processing,Kochi,74.61,30356.17,
+872,185,2025-08-11,Cash on Delivery,Cancelled,Chennai,37.0,25606.21,
+873,433,2024-06-27,Debit Card,Delivered,Chennai,13.35,22870.02,2024-07-05
+874,462,2026-06-07,Debit Card,Delivered,Bhopal,42.43,45765.46,2026-06-12
+875,848,2024-05-11,UPI,Delivered,Ahmedabad,37.41,24048.47,2024-05-17
+876,551,2026-07-26,Credit Card,Cancelled,Mumbai,135.71,44136.3,
+877,93,2026-09-19,Net Banking,Delivered,Mumbai,182.82,14570.35,2026-09-24
+878,791,2024-11-21,Cash on Delivery,Processing,Kochi,162.13,45777.75,
+879,827,2025-09-26,Net Banking,Delivered,Kochi,160.96,30327.71,2025-09-28
+880,472,2024-12-19,Wallet,Processing,Mumbai,35.39,17912.78,
+881,784,2024-02-12,Wallet,Cancelled,Coimbatore,11.04,33574.14,
+882,622,2026-04-16,UPI,Delivered,Kolkata,62.04,44803.95,2026-04-28
+883,178,2024-03-05,Credit Card,Processing,Kochi,62.56,26393.16,
+884,256,2024-03-26,Debit Card,Delivered,Coimbatore,175.65,25201.17,2024-03-27
+885,304,2024-01-11,Net Banking,Shipped,Mysuru,87.75,33353.17,
+886,760,2026-05-09,Cash on Delivery,Cancelled,Ahmedabad,86.0,17793.96,
+887,101,2024-05-24,Cash on Delivery,Shipped,Bengaluru,186.81,14401.95,
+888,940,2026-01-21,Credit Card,Delivered,Bengaluru,4.56,36258.49,2026-02-01
+889,164,2025-11-11,Wallet,Delivered,Visakhapatnam,26.67,32963.8,2025-11-17
+890,412,2024-06-23,Net Banking,Cancelled,Visakhapatnam,155.65,26618.44,
+891,587,2026-03-29,Cash on Delivery,Cancelled,Chennai,17.18,18575.03,
+892,643,2025-04-11,Wallet,Delivered,Ahmedabad,139.99,20848.89,2025-04-19
+893,132,2024-09-17,Wallet,Delivered,Kolkata,110.74,47667.87,2024-09-23
+894,525,2026-06-24,UPI,Cancelled,Visakhapatnam,4.59,36109.17,
+895,178,2026-03-21,UPI,Delivered,Kochi,52.17,40674.14,2026-03-27
+896,736,2025-08-16,Net Banking,Delivered,Visakhapatnam,51.18,22952.97,2025-08-18
+897,338,2025-10-04,Cash on Delivery,Delivered,Pune,85.85,41939.33,2025-10-16
+898,639,2026-04-29,Wallet,Delivered,Pune,14.74,17344.54,2026-05-01
+899,889,2024-07-17,Cash on Delivery,Processing,Mumbai,76.06,24180.16,
+900,18,2024-07-31,Cash on Delivery,Delivered,Mumbai,24.13,32771.33,2024-08-02
+901,729,2026-02-10,Credit Card,Delivered,Bengaluru,51.66,30742.16,2026-02-19
+902,603,2025-01-02,UPI,Delivered,Pune,190.51,23507.69,2025-01-10
+903,828,2025-07-23,Wallet,Delivered,Lucknow,172.04,48580.23,2025-08-03
+904,548,2025-11-10,Debit Card,Delivered,Pune,173.65,11447.67,2025-11-14
+905,215,2024-02-12,Debit Card,Shipped,Chennai,178.76,31629.03,2024-02-20
+906,332,2026-03-31,Credit Card,Processing,Delhi,43.54,50620.65,
+907,82,2024-08-24,Cash on Delivery,Delivered,Bhopal,126.6,23713.16,2024-09-05
+908,501,2024-10-08,Debit Card,Processing,Hyderabad,141.0,42094.29,
+909,779,2024-05-03,Cash on Delivery,Cancelled,Coimbatore,129.73,45158.17,
+910,417,2024-12-30,Cash on Delivery,Delivered,Bengaluru,14.32,24431.98,2025-01-08
+911,438,2024-08-31,Credit Card,Cancelled,Bengaluru,1.58,25496.83,
+912,858,2024-02-08,Cash on Delivery,Delivered,Bhopal,150.96,14104.52,2024-02-13
+913,811,2026-02-01,Cash on Delivery,Delivered,Kolkata,60.76,38307.51,2026-02-12
+914,785,2024-09-17,UPI,Shipped,Coimbatore,130.33,17024.46,
+915,859,2026-05-24,Debit Card,Delivered,Delhi,173.22,17521.69,2026-05-30
+916,268,2024-10-06,Wallet,Shipped,Ahmedabad,175.27,27058.0,
+917,845,2025-02-16,Cash on Delivery,Cancelled,Coimbatore,139.4,44978.4,
+918,708,2024-06-05,Debit Card,Cancelled,Mysuru,105.61,52719.61,
+919,329,2026-01-09,Credit Card,Cancelled,Jaipur,166.85,5359.23,
+920,92,2026-07-25,Net Banking,Delivered,Coimbatore,76.87,25070.01,2026-08-06
+921,3,2025-04-01,Cash on Delivery,Processing,Bengaluru,121.29,20185.51,
+922,67,2025-04-12,Net Banking,Shipped,Delhi,74.55,32550.6,2025-04-15
+923,940,2024-10-09,Net Banking,Processing,Bengaluru,107.76,22398.78,
+924,456,2025-03-20,Cash on Delivery,Delivered,Delhi,75.47,22413.99,2025-04-01
+925,270,2025-10-26,Net Banking,Cancelled,Mumbai,41.84,24794.44,
+926,820,2025-07-31,UPI,Delivered,Hyderabad,189.2,22927.88,2025-08-05
+927,355,2024-08-03,Credit Card,Delivered,Mumbai,118.15,23320.39,2024-08-11
+928,785,2024-10-21,Debit Card,Processing,Coimbatore,191.23,47969.27,
+929,480,2026-09-12,Cash on Delivery,Processing,Kochi,67.02,42269.91,
+930,337,2026-06-15,Debit Card,Cancelled,Mysuru,74.44,26821.85,
+931,566,2024-01-19,UPI,Cancelled,Pune,149.23,42280.29,
+932,670,2025-02-22,Net Banking,Shipped,Mumbai,8.82,38004.3,2025-02-28
+933,2,2024-11-03,UPI,Delivered,Kolkata,92.54,69291.98,2024-11-08
+934,570,2024-12-23,UPI,Cancelled,Bengaluru,63.55,59604.69,
+935,473,2024-01-27,Net Banking,Delivered,Jaipur,121.09,20527.37,2024-01-29
+936,768,2024-02-06,Wallet,Shipped,Chennai,91.54,28271.27,
+937,101,2025-02-11,Debit Card,Cancelled,Bengaluru,31.06,38462.04,
+938,203,2026-03-20,Credit Card,Shipped,Kochi,96.87,46550.97,
+939,547,2025-07-05,Credit Card,Delivered,Mumbai,53.75,10114.68,2025-07-10
+940,49,2025-09-10,Wallet,Shipped,Kolkata,181.24,30466.87,
+941,791,2026-01-14,Net Banking,Processing,Kochi,82.4,11657.02,
+942,690,2026-01-08,Debit Card,Delivered,Hyderabad,160.11,27392.97,2026-01-11
+943,186,2026-08-29,Cash on Delivery,Cancelled,Mysuru,82.6,17568.97,
+944,107,2024-03-31,UPI,Delivered,Hyderabad,133.77,55750.92,2024-04-07
+945,946,2024-04-20,Debit Card,Processing,Hyderabad,97.36,23272.8,
+946,645,2025-10-06,Cash on Delivery,Delivered,Mysuru,75.13,29275.6,2025-10-08
+947,100,2026-03-27,Cash on Delivery,Cancelled,Hyderabad,105.93,39075.27,
+948,19,2025-12-04,UPI,Delivered,Chennai,28.73,10536.25,2025-12-09
+949,550,2026-03-08,Cash on Delivery,Delivered,Delhi,171.53,33975.13,2026-03-19
+950,250,2024-07-22,Net Banking,Delivered,Chennai,64.4,22167.71,2024-07-26
+951,12,2024-07-19,Wallet,Delivered,Kolkata,101.12,20123.17,2024-07-30
+952,495,2025-03-21,Net Banking,Delivered,Jaipur,193.29,52260.37,2025-04-01
+953,706,2026-05-08,Wallet,Delivered,Ahmedabad,126.67,28726.22,2026-05-09
+954,307,2024-04-15,Debit Card,Processing,Coimbatore,77.6,12772.89,
+955,630,2025-03-15,Debit Card,Shipped,Delhi,59.4,11134.82,
+956,816,2026-03-27,Wallet,Processing,Jaipur,6.6,33177.7,
+957,118,2025-12-23,Credit Card,Processing,Kolkata,89.68,15562.64,
+958,594,2025-02-04,Debit Card,Shipped,Chennai,189.94,22160.52,
+959,176,2025-02-15,Credit Card,Delivered,Bhopal,27.98,22192.14,2025-02-16
+960,886,2026-05-13,Net Banking,Processing,Lucknow,46.15,36158.96,
+961,371,2025-04-04,Wallet,Delivered,Bhopal,176.19,32289.61,2025-04-08
+962,723,2024-12-19,Cash on Delivery,Delivered,Kochi,5.17,13829.04,2024-12-21
+963,339,2025-01-11,Net Banking,Processing,Bengaluru,189.35,27014.71,
+964,505,2024-03-24,UPI,Shipped,Kochi,139.15,32127.73,2024-04-01
+965,338,2024-04-05,Net Banking,Shipped,Pune,50.42,39542.61,2024-04-15
+966,783,2026-05-02,Wallet,Shipped,Kolkata,91.04,28773.74,
+967,864,2026-01-01,Credit Card,Processing,Hyderabad,159.01,22496.47,
+968,182,2024-09-27,UPI,Processing,Lucknow,157.46,41716.28,
+969,310,2025-07-09,UPI,Delivered,Hyderabad,178.48,10905.56,2025-07-16
+970,878,2024-12-15,UPI,Delivered,Bhopal,32.28,29009.82,2024-12-17
+971,53,2025-05-10,Credit Card,Processing,Mysuru,94.06,19285.76,
+972,525,2025-08-01,Cash on Delivery,Shipped,Visakhapatnam,30.19,21215.63,
+973,520,2024-09-21,UPI,Cancelled,Bengaluru,75.66,48522.16,
+974,224,2025-06-15,Debit Card,Delivered,Pune,185.37,36262.31,2025-06-25
+975,480,2024-02-11,Cash on Delivery,Cancelled,Kochi,40.82,12444.68,
+976,189,2026-06-19,Credit Card,Cancelled,Chennai,160.77,61597.71,
+977,568,2025-09-03,UPI,Shipped,Chennai,34.31,50904.84,2025-09-08
+978,807,2024-05-26,Debit Card,Delivered,Hyderabad,122.74,12811.07,2024-06-05
+979,725,2024-08-20,Credit Card,Cancelled,Hyderabad,182.51,22079.51,
+980,614,2024-11-08,Debit Card,Delivered,Jaipur,27.17,16630.13,2024-11-17
+981,295,2025-06-28,Debit Card,Shipped,Delhi,155.19,14644.98,
+982,927,2024-05-26,UPI,Processing,Coimbatore,159.63,54806.63,
+983,492,2025-07-24,Credit Card,Shipped,Kochi,109.58,44155.48,
+984,126,2024-09-12,Wallet,Delivered,Bhopal,182.49,25726.7,2024-09-22
+985,135,2025-07-06,Net Banking,Shipped,Bhopal,112.61,31908.74,
+986,178,2025-08-13,Credit Card,Delivered,Kochi,94.3,20085.16,2025-08-17
+987,555,2025-07-24,Debit Card,Processing,Chennai,1.32,29601.17,
+988,702,2024-03-22,UPI,Delivered,Delhi,186.86,23440.94,2024-03-27
+989,408,2024-10-09,Net Banking,Processing,Hyderabad,99.16,52492.9,
+990,328,2025-10-27,UPI,Cancelled,Mumbai,3.56,30348.64,
+991,236,2026-06-07,Debit Card,Cancelled,Visakhapatnam,79.25,23864.05,
+992,520,2026-09-02,Debit Card,Shipped,Bengaluru,28.21,15539.38,
+993,457,2025-08-31,Net Banking,Delivered,Lucknow,45.59,42555.11,2025-09-11
+994,8,2024-04-07,Debit Card,Delivered,Mumbai,8.81,22703.27,2024-04-10
+995,76,2025-08-08,UPI,Delivered,Visakhapatnam,9.2,34679.58,2025-08-16
+996,852,2024-10-02,Cash on Delivery,Processing,Chennai,128.84,27918.32,
+997,647,2026-07-19,UPI,Delivered,Mumbai,181.98,62875.27,2026-07-22
+998,926,2026-03-17,Credit Card,Shipped,Kolkata,66.52,36647.18,
+999,395,2024-05-13,Wallet,Delivered,Mysuru,119.66,38675.43,2024-05-17
+1000,445,2025-12-26,Net Banking,Shipped,Coimbatore,95.52,19684.21,
